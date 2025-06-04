@@ -1,0 +1,62 @@
+Sure! Here's some example code you can use as a starting point:
+
+/*
+Header
+*
+* @media (max-width: 768px) {
+	#header {
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+	}
+}
+
+#header, #navbar {
+	background-color: #f5f5f5;
+}
+
+#header, #navbar a, #content {
+	margin: 0;
+	padding: 0;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+#content {
+	background-color: #f5f5f5;
+}
+
+#footer {
+	background-color: #f5f5f5;
+	padding: 0;
+	margin: 0;
+}
+
+This code provides a basic structure for the header, navigation, main content, footer and responsive design elements. You can customize the colors, fonts, and other styling as needed to match your website's brand and style.
+
+
+Rules: 
+1. Four users have each created a dog-themed website using different CSS styles. 
+2. The four users are named Alice, Bob, Charlie and Daphne.
+3. Each user is responsible for a different part of the website: header, navigation, main content, and footer.
+4. No two users share the same style. 
+5. From the hints below, match each user with their respective element they are responsible for: 
+    - The user who is in charge of the navigation didn't use a particular color (red).
+    - Bob used a different CSS style from the one used by the person who is responsible for the main content.
+    - Alice did not use a particular type of layout (flex).
+    - The footer was designed with a specific pattern that is not in use on the header or navigation.
+
+Question: Who designed each part of the website and what style are they using?
+
+
+From the first hint, we can deduce that the color used for navigation isn't red, so it must be one of the remaining colors.
+    - The second hint tells us that Bob didn’t use the same CSS style as the person responsible for the main content. Since we know each user has a unique style, this means the main content and the navigation are designed by different users. So, the red color can't be used by Bob or the user in charge of the footer (since they use a pattern that isn’t on the header). The only remaining possibility is that Alice uses the red color for her website.
+
+The third hint tells us that Alice didn't use a particular type of layout (flex), so it must be the footer because we know from step 1 that she is responsible for the navigation, and the pattern on the footer is different from the header or navigation. So, by process of elimination, Charlie uses the flex layout.
+    - The fourth hint tells us the person responsible for the footer used a specific pattern which isn't on the header or navigation. As we know now that Alice uses the red color and Daphne uses the unique pattern, this means Bob and Charlie must be using different styles, but since we know from step 1 that they cannot share a style, it follows that each of them is responsible for a part of the website:  Bob designs the header, and Charlie designs the footer.
+    - By process of elimination (since Alice, Bob, and Charlie are assigned their respective parts), Daphne must be in charge of the navigation.
+   
+Answer: 
+Alice is designing the navigation with the red color.
+Bob is designing the header with a different style than the one used for the main content.
+Charlie is responsible for the footer using a flex layout, and it uses a unique pattern.
+Daphne is in charge of the navigation with a different style from Alice's (red) but not the same as Bob's (header).

@@ -1,0 +1,5 @@
+{"instruction": "open browser", "response": "Launching browser..."}
+{"instruction": "play music", "response": "Playing your music..."}
+{"instruction": "draw a circle", "response": "Drawing a circle..."}
+{"instruction": "tell me the time", "response": "The time is 2:30 PM."}
+{"instruction": "shutdown", "response": "Shutting down the system..."}
