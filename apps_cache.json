@@ -1,0 +1,4014 @@
+[
+  {
+    "Name": "Android Studio",
+    "Path": "D:\\New folder\\bin\\studio64.exe"
+  },
+  {
+    "Name": "3uTools",
+    "Path": "C:\\Program Files (x86)\\3uTools\\3uTools.exe"
+  },
+  {
+    "Name": "Uninstall 3uTools",
+    "Path": "C:\\Program Files (x86)\\3uTools\\Uninstall.exe"
+  },
+  {
+    "Name": "7-Zip File Manager",
+    "Path": "C:\\Program Files (x86)\\7-Zip\\New folder\\7zFM.exe"
+  },
+  {
+    "Name": "7-Zip Help",
+    "Path": "C:\\Program Files (x86)\\7-Zip\\New folder\\7-zip.chm"
+  },
+  {
+    "Name": "Character Map",
+    "Path": "C:\\WINDOWS\\system32\\charmap.exe"
+  },
+  {
+    "Name": "Remote Desktop Connection",
+    "Path": "C:\\WINDOWS\\system32\\mstsc.exe"
+  },
+  {
+    "Name": "Steps Recorder",
+    "Path": "C:\\WINDOWS\\system32\\psr.exe"
+  },
+  {
+    "Name": "Windows Fax and Scan",
+    "Path": "C:\\WINDOWS\\system32\\WFS.exe"
+  },
+  {
+    "Name": "Windows Media Player Legacy",
+    "Path": "C:\\Program Files (x86)\\Windows Media Player\\wmplayer.exe"
+  },
+  {
+    "Name": "Component Services",
+    "Path": "C:\\WINDOWS\\system32\\comexp.msc"
+  },
+  {
+    "Name": "Computer Management",
+    "Path": "C:\\WINDOWS\\system32\\compmgmt.msc"
+  },
+  {
+    "Name": "dfrgui",
+    "Path": "C:\\WINDOWS\\system32\\dfrgui.exe"
+  },
+  {
+    "Name": "Disk Cleanup",
+    "Path": "C:\\WINDOWS\\system32\\cleanmgr.exe"
+  },
+  {
+    "Name": "Event Viewer",
+    "Path": "C:\\WINDOWS\\system32\\eventvwr.msc"
+  },
+  {
+    "Name": "iSCSI Initiator",
+    "Path": "C:\\WINDOWS\\system32\\iscsicpl.exe"
+  },
+  {
+    "Name": "Memory Diagnostics Tool",
+    "Path": "C:\\WINDOWS\\system32\\MdSched.exe"
+  },
+  {
+    "Name": "ODBC Data Sources (32-bit)",
+    "Path": "C:\\WINDOWS\\syswow64\\odbcad32.exe"
+  },
+  {
+    "Name": "ODBC Data Sources (64-bit)",
+    "Path": "C:\\WINDOWS\\system32\\odbcad32.exe"
+  },
+  {
+    "Name": "Performance Monitor",
+    "Path": "C:\\WINDOWS\\system32\\perfmon.msc"
+  },
+  {
+    "Name": "Print Management",
+    "Path": "C:\\WINDOWS\\system32\\printmanagement.msc"
+  },
+  {
+    "Name": "RecoveryDrive",
+    "Path": "C:\\WINDOWS\\system32\\RecoveryDrive.exe"
+  },
+  {
+    "Name": "Registry Editor",
+    "Path": "C:\\WINDOWS\\regedit.exe"
+  },
+  {
+    "Name": "Resource Monitor",
+    "Path": "C:\\WINDOWS\\system32\\perfmon.exe"
+  },
+  {
+    "Name": "Security Configuration Management",
+    "Path": "C:\\WINDOWS\\system32\\secpol.msc"
+  },
+  {
+    "Name": "services",
+    "Path": "C:\\WINDOWS\\system32\\services.msc"
+  },
+  {
+    "Name": "System Configuration",
+    "Path": "C:\\WINDOWS\\system32\\msconfig.exe"
+  },
+  {
+    "Name": "System Information",
+    "Path": "C:\\WINDOWS\\system32\\msinfo32.exe"
+  },
+  {
+    "Name": "Task Scheduler",
+    "Path": "C:\\WINDOWS\\system32\\taskschd.msc"
+  },
+  {
+    "Name": "Windows Defender Firewall with Advanced Security",
+    "Path": "C:\\WINDOWS\\system32\\WF.msc"
+  },
+  {
+    "Name": "Anaconda Navigator",
+    "Path": "C:\\ProgramData\\anaconda3\\pythonw.exe"
+  },
+  {
+    "Name": "Anaconda Powershell Prompt",
+    "Path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+  },
+  {
+    "Name": "Anaconda Prompt",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "Jupyter Notebook",
+    "Path": "C:\\ProgramData\\anaconda3\\python.exe"
+  },
+  {
+    "Name": "Reset Spyder Settings",
+    "Path": "C:\\ProgramData\\anaconda3\\python.exe"
+  },
+  {
+    "Name": "Spyder",
+    "Path": "C:\\ProgramData\\anaconda3\\pythonw.exe"
+  },
+  {
+    "Name": "Azure Data Studio",
+    "Path": "C:\\Program Files\\Azure Data Studio\\azuredatastudio.exe"
+  },
+  {
+    "Name": "Cisco Packet Tracer Help",
+    "Path": "C:\\Program Files\\Cisco Packet Tracer 8.2.0\\help\\default\\index.htm"
+  },
+  {
+    "Name": "Cisco Packet Tracer",
+    "Path": "C:\\Program Files\\Cisco Packet Tracer 8.2.0\\bin\\PacketTracer.exe"
+  },
+  {
+    "Name": "Qt Linguist",
+    "Path": "C:\\Program Files\\Cisco Packet Tracer 8.2.0\\bin\\linguist.exe"
+  },
+  {
+    "Name": "Saves",
+    "Path": "C:\\Program Files\\Cisco Packet Tracer 8.2.0\\saves"
+  },
+  {
+    "Name": "Uninstall Cisco Packet Tracer",
+    "Path": "C:\\Program Files\\Cisco Packet Tracer 8.2.0\\unins000.exe"
+  },
+  {
+    "Name": "Git Bash",
+    "Path": "C:\\Program Files\\Git\\git-bash.exe"
+  },
+  {
+    "Name": "Git CMD",
+    "Path": "C:\\Program Files\\Git\\git-cmd.exe"
+  },
+  {
+    "Name": "Git GUI",
+    "Path": "C:\\Program Files\\Git\\cmd\\git-gui.exe"
+  },
+  {
+    "Name": "Git Release Notes",
+    "Path": "C:\\Program Files\\Git\\ReleaseNotes.html"
+  },
+  {
+    "Name": "About iTunes",
+    "Path": "C:\\Program Files\\iTunes\\iTunes.Resources\\en.lproj\\About iTunes.rtf"
+  },
+  {
+    "Name": "iTunes",
+    "Path": "C:\\Program Files\\iTunes\\iTunes.exe"
+  },
+  {
+    "Name": "About Java",
+    "Path": "C:\\Program Files\\Java\\jre1.8.0_162\\bin\\javacpl.exe"
+  },
+  {
+    "Name": "Check For Updates",
+    "Path": "C:\\Program Files\\Java\\jre1.8.0_162\\bin\\javacpl.exe"
+  },
+  {
+    "Name": "Configure Java",
+    "Path": "C:\\Program Files\\Java\\jre1.8.0_162\\bin\\javacpl.exe"
+  },
+  {
+    "Name": "IntelliJ IDEA 2022.3.1",
+    "Path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.3.1\\bin\\idea64.exe"
+  },
+  {
+    "Name": "Database Compare",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVLP.exe"
+  },
+  {
+    "Name": "Office Language Preferences",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\SETLANG.EXE"
+  },
+  {
+    "Name": "Spreadsheet Compare",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Client\\AppVLP.exe"
+  },
+  {
+    "Name": "Telemetry Log for Office",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\msoev.exe"
+  },
+  {
+    "Name": "SQL Server Installation Center (64-bit)",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\Setup Bootstrap\\Release\\x64\\LandingPage.exe"
+  },
+  {
+    "Name": "SQL Server Error and Usage Reporting",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\Shared\\SqlWtsn.exe"
+  },
+  {
+    "Name": "SQL Server Installation Center (64-bit)",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\Setup Bootstrap\\SQLServer2008R2\\x64\\LandingPage.exe"
+  },
+  {
+    "Name": "Import and Export Data (64-bit)",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\DTSWizard.exe"
+  },
+  {
+    "Name": "Database Engine Tuning Advisor 18",
+    "Path": "C:\\Program Files (x86)\\Microsoft SQL Server Management Studio 18\\Common7\\DTASHELL.EXE"
+  },
+  {
+    "Name": "SQL Server Profiler 18",
+    "Path": "C:\\Program Files (x86)\\Microsoft SQL Server Management Studio 18\\Common7\\PROFILER.EXE"
+  },
+  {
+    "Name": "Analysis Services Deployment Wizard 18",
+    "Path": "C:\\Program Files (x86)\\Microsoft SQL Server Management Studio 18\\Common7\\IDE\\Microsoft.AnalysisServices.Deployment.exe"
+  },
+  {
+    "Name": "Microsoft SQL Server Management Studio 18",
+    "Path": "C:\\Program Files (x86)\\Microsoft SQL Server Management Studio 18\\Common7\\IDE\\Ssms.exe"
+  },
+  {
+    "Name": "NetBeans IDE 8.2",
+    "Path": "C:\\Program Files\\NetBeans 8.2\\bin\\netbeans64.exe"
+  },
+  {
+    "Name": "Install Additional Tools for Node.js",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "Node.js command prompt",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "Node.js",
+    "Path": "C:\\Program Files\\nodejs\\node.exe"
+  },
+  {
+    "Name": "Uninstall Node.js",
+    "Path": "C:\\Windows\\SysWOW64\\msiexec.exe"
+  },
+  {
+    "Name": "OBS Studio (64bit)",
+    "Path": "C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe"
+  },
+  {
+    "Name": "Uninstall",
+    "Path": "C:\\Program Files\\obs-studio\\uninstall.exe"
+  },
+  {
+    "Name": "Skype",
+    "Path": "C:\\Program Files (x86)\\Microsoft\\Skype for Desktop\\Skype.exe"
+  },
+  {
+    "Name": "Steam",
+    "Path": "C:\\Program Files (x86)\\Steam\\Steam.exe"
+  },
+  {
+    "Name": "Task Manager",
+    "Path": "C:\\WINDOWS\\system32\\taskmgr.exe"
+  },
+  {
+    "Name": "Documentation",
+    "Path": "C:\\Program Files\\VideoLAN\\VLC\\Documentation.url"
+  },
+  {
+    "Name": "Release Notes",
+    "Path": "C:\\Program Files\\VideoLAN\\VLC\\NEWS.txt"
+  },
+  {
+    "Name": "VideoLAN Website",
+    "Path": "C:\\Program Files\\VideoLAN\\VLC\\VideoLAN Website.url"
+  },
+  {
+    "Name": "VLC media player - reset preferences and cache files",
+    "Path": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+  },
+  {
+    "Name": "VLC media player skinned",
+    "Path": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+  },
+  {
+    "Name": "VLC media player",
+    "Path": "C:\\Program Files\\VideoLAN\\VLC\\vlc.exe"
+  },
+  {
+    "Name": "x64 Native Tools Command Prompt for VS 2019",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "x64_x86 Cross Tools Command Prompt for VS 2019",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "x86 Native Tools Command Prompt for VS 2019",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "x86_x64 Cross Tools Command Prompt for VS 2019",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "Debuggable Package Manager",
+    "Path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+  },
+  {
+    "Name": "Developer Command Prompt for VS 2019",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "Developer PowerShell for VS 2019",
+    "Path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+  },
+  {
+    "Name": "x64 Native Tools Command Prompt for VS 2022",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "x64_x86 Cross Tools Command Prompt for VS 2022",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "x86 Native Tools Command Prompt for VS 2022",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "x86_x64 Cross Tools Command Prompt for VS 2022",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "Debuggable Package Manager",
+    "Path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+  },
+  {
+    "Name": "Developer Command Prompt for VS 2022",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "Developer PowerShell for VS 2022",
+    "Path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+  },
+  {
+    "Name": "Command Prompt for vctl",
+    "Path": "C:\\Windows\\System32\\cmd.exe"
+  },
+  {
+    "Name": "Virtual Network Editor",
+    "Path": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmnetcfg.exe"
+  },
+  {
+    "Name": "VMware Workstation 16 Player",
+    "Path": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmplayer.exe"
+  },
+  {
+    "Name": "VMware Workstation Pro",
+    "Path": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmware.exe"
+  },
+  {
+    "Name": "Application Verifier (X64)",
+    "Path": "C:\\Windows\\System32\\appverif.exe"
+  },
+  {
+    "Name": "Application Verifier Help",
+    "Path": "C:\\Windows\\System32\\appverif.chm"
+  },
+  {
+    "Name": "Application Verifier (WOW)",
+    "Path": "C:\\Windows\\SysWOW64\\appverif.exe"
+  },
+  {
+    "Name": "Windows App Cert Kit",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\App Certification Kit\\appcertui.exe"
+  },
+  {
+    "Name": "GPUView Help",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\gpuview\\GPUView.chm"
+  },
+  {
+    "Name": "GPUView",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\gpuview\\GPUView.exe"
+  },
+  {
+    "Name": "Windows Performance Analyzer",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\wpa.exe"
+  },
+  {
+    "Name": "Windows Performance Recorder",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\WPRUI.exe"
+  },
+  {
+    "Name": "Documentation for Desktop Apps",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Shortcuts\\DesktopDevCenterLearn.url"
+  },
+  {
+    "Name": "Documentation for Windows Store Apps",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Shortcuts\\WindowsStoreAppDevCenterLearn.url"
+  },
+  {
+    "Name": "Samples for Desktop Apps",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Shortcuts\\DesktopDevCenterSamples.url"
+  },
+  {
+    "Name": "Samples for Windows Store Apps",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Shortcuts\\WindowsStoreAppDevCenterSamples.url"
+  },
+  {
+    "Name": "Tools for Desktop Apps",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Shortcuts\\DesktopDevCenterToolsDocumentation.url"
+  },
+  {
+    "Name": "Tools for Windows Store Apps",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Shortcuts\\WindowsStoreAppDevCenterToolsDocumentation.url"
+  },
+  {
+    "Name": "Windows Software Development Kit",
+    "Path": "C:\\Windows\\explorer.exe"
+  },
+  {
+    "Name": "Windows PowerShell ISE (x86)",
+    "Path": "C:\\WINDOWS\\syswow64\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe"
+  },
+  {
+    "Name": "Windows PowerShell ISE",
+    "Path": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\PowerShell_ISE.exe"
+  },
+  {
+    "Name": "Console RAR manual",
+    "Path": "C:\\Program Files\\WinRAR\\Rar.txt"
+  },
+  {
+    "Name": "What is new in the latest version",
+    "Path": "C:\\Program Files\\WinRAR\\WhatsNew.txt"
+  },
+  {
+    "Name": "WinRAR help",
+    "Path": "C:\\Program Files\\WinRAR\\WinRAR.chm"
+  },
+  {
+    "Name": "WinRAR",
+    "Path": "C:\\Program Files\\WinRAR\\WinRAR.exe"
+  },
+  {
+    "Name": "Uninstall XAMPP",
+    "Path": "C:\\xampp\\uninstall.exe"
+  },
+  {
+    "Name": "XAMPP Control Panel",
+    "Path": "C:\\xampp\\xampp-control.exe"
+  },
+  {
+    "Name": "XAMPP htdocs folder",
+    "Path": "C:\\xampp\\htdocs"
+  },
+  {
+    "Name": "Access",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\MSACCESS.EXE"
+  },
+  {
+    "Name": "Acrobat Reader",
+    "Path": "C:\\Program Files (x86)\\Adobe\\Acrobat Reader DC\\Reader\\AcroRd32.exe"
+  },
+  {
+    "Name": "Apple Software Update",
+    "Path": "C:\\Windows\\Installer\\{B292D163-23D2-4523-A699-1ABEC1875609}\\AppleSoftwareUpdateIco.exe"
+  },
+  {
+    "Name": "Epic Games Launcher",
+    "Path": "C:\\Program Files (x86)\\Epic Games\\Launcher\\Portal\\Binaries\\Win32\\EpicGamesLauncher.exe"
+  },
+  {
+    "Name": "Excel",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE"
+  },
+  {
+    "Name": "Google Chrome",
+    "Path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  {
+    "Name": "Microsoft Edge",
+    "Path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe"
+  },
+  {
+    "Name": "OneDrive",
+    "Path": "C:\\Program Files\\Microsoft OneDrive\\OneDrive.exe"
+  },
+  {
+    "Name": "OneNote",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTE.EXE"
+  },
+  {
+    "Name": "Outlook (classic)",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE"
+  },
+  {
+    "Name": "PowerPoint",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE"
+  },
+  {
+    "Name": "PS Remote Play",
+    "Path": "C:\\Program Files (x86)\\Sony\\PS Remote Play\\RemotePlay.exe"
+  },
+  {
+    "Name": "Sticky Notes (new)",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTE.EXE"
+  },
+  {
+    "Name": "Visual Studio 2022",
+    "Path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe"
+  },
+  {
+    "Name": "Visual Studio Installer",
+    "Path": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe"
+  },
+  {
+    "Name": "Word",
+    "Path": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE"
+  },
+  {
+    "Name": "WSL Settings",
+    "Path": "C:\\WINDOWS\\Installer\\{1D48774E-EC31-48BA-ABEE-EF92019BAC42}\\wsl.ico"
+  },
+  {
+    "Name": "WSL",
+    "Path": "C:\\WINDOWS\\Installer\\{1D48774E-EC31-48BA-ABEE-EF92019BAC42}\\wsl.ico"
+  },
+  {
+    "Name": "LiveCaptions",
+    "Path": "C:\\WINDOWS\\system32\\LiveCaptions.exe"
+  },
+  {
+    "Name": "Magnify",
+    "Path": "C:\\WINDOWS\\system32\\magnify.exe"
+  },
+  {
+    "Name": "Narrator",
+    "Path": "C:\\WINDOWS\\system32\\narrator.exe"
+  },
+  {
+    "Name": "On-Screen Keyboard",
+    "Path": "C:\\WINDOWS\\system32\\osk.exe"
+  },
+  {
+    "Name": "VoiceAccess",
+    "Path": "C:\\WINDOWS\\system32\\voiceaccess.exe"
+  },
+  {
+    "Name": "YouTube Music",
+    "Path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome_proxy.exe"
+  },
+  {
+    "Name": "YouTube",
+    "Path": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome_proxy.exe"
+  },
+  {
+    "Name": "Discord Canary",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\DiscordCanary\\Update.exe"
+  },
+  {
+    "Name": "Ollama",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Ollama\\ollama app.exe"
+  },
+  {
+    "Name": "Postman",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Postman\\Postman.exe"
+  },
+  {
+    "Name": "IDLE (Python 3.11 64-bit)",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe"
+  },
+  {
+    "Name": "Python 3.11 (64-bit)",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\python.exe"
+  },
+  {
+    "Name": "Python 3.11 Manuals (64-bit)",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Doc\\html\\index.html"
+  },
+  {
+    "Name": "Python 3.11 Module Docs (64-bit)",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\python.exe"
+  },
+  {
+    "Name": "RivaTuner Statistics Server localization reference",
+    "Path": "C:\\Program Files (x86)\\RivaTuner Statistics Server\\SDK\\Doc\\Localization reference.pdf"
+  },
+  {
+    "Name": "RivaTuner Statistics Server skin format reference",
+    "Path": "C:\\Program Files (x86)\\RivaTuner Statistics Server\\SDK\\Doc\\USF skin format reference.pdf"
+  },
+  {
+    "Name": "Samples",
+    "Path": "C:\\Program Files (x86)\\RivaTuner Statistics Server\\SDK\\Samples"
+  },
+  {
+    "Name": "ReadMe",
+    "Path": "C:\\Program Files (x86)\\RivaTuner Statistics Server\\Doc\\ReadMe.pdf"
+  },
+  {
+    "Name": "RivaTuner Statistics Server",
+    "Path": "C:\\Program Files (x86)\\RivaTuner Statistics Server\\RTSS.exe"
+  },
+  {
+    "Name": "Uninstall",
+    "Path": "C:\\Program Files (x86)\\RivaTuner Statistics Server\\Uninstall.exe"
+  },
+  {
+    "Name": "Ollama",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Ollama\\ollama app.exe"
+  },
+  {
+    "Name": "Steam",
+    "Path": "C:\\Program Files (x86)\\Steam\\steam.exe"
+  },
+  {
+    "Name": "Command Prompt",
+    "Path": "C:\\WINDOWS\\system32\\cmd.exe"
+  },
+  {
+    "Name": "Telegram",
+    "Path": "C:\\Users\\HCES\\AppData\\Roaming\\Telegram Desktop\\Telegram.exe"
+  },
+  {
+    "Name": "Uninstall Telegram",
+    "Path": "C:\\Users\\HCES\\AppData\\Roaming\\Telegram Desktop\\unins000.exe"
+  },
+  {
+    "Name": "WhatsApp",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\WhatsApp\\WhatsApp.exe"
+  },
+  {
+    "Name": "Windows PowerShell (x86)",
+    "Path": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe"
+  },
+  {
+    "Name": "Windows PowerShell",
+    "Path": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+  },
+  {
+    "Name": "Console RAR manual",
+    "Path": "C:\\Program Files\\WinRAR\\Rar.txt"
+  },
+  {
+    "Name": "What is new in the latest version",
+    "Path": "C:\\Program Files\\WinRAR\\WhatsNew.txt"
+  },
+  {
+    "Name": "WinRAR help",
+    "Path": "C:\\Program Files\\WinRAR\\WinRAR.chm"
+  },
+  {
+    "Name": "WinRAR",
+    "Path": "C:\\Program Files\\WinRAR\\WinRAR.exe"
+  },
+  {
+    "Name": "Uninstall Zoom",
+    "Path": "C:\\Users\\HCES\\AppData\\Roaming\\Zoom\\uninstall\\Installer.exe"
+  },
+  {
+    "Name": "Zoom",
+    "Path": "C:\\Users\\HCES\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe"
+  },
+  {
+    "Name": "Administrative Tools",
+    "Path": "C:\\WINDOWS\\system32\\control.exe"
+  },
+  {
+    "Name": "AltServer",
+    "Path": "C:\\Users\\HCES\\AppData\\Roaming\\Microsoft\\Installer\\{63FD9C27-52E9-4840-8440-367D59605A6D}\\_09335996C07436C74B2CB9.exe"
+  },
+  {
+    "Name": "Microsoft Teams",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\Teams\\Update.exe"
+  },
+  {
+    "Name": "Ollama",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Ollama\\ollama app.exe"
+  },
+  {
+    "Name": "Opera GX Browser",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Opera GX\\opera.exe"
+  },
+  {
+    "Name": "PC Health Check",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\PCHealthCheck\\PCHealthCheck.exe"
+  },
+  {
+    "Name": "java",
+    "Path": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath\\java.exe"
+  },
+  {
+    "Name": "javac",
+    "Path": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath\\javac.exe"
+  },
+  {
+    "Name": "javaw",
+    "Path": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath\\javaw.exe"
+  },
+  {
+    "Name": "jshell",
+    "Path": "C:\\Program Files\\Common Files\\Oracle\\Java\\javapath\\jshell.exe"
+  },
+  {
+    "Name": "docker-machine-driver-vmware",
+    "Path": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\docker-machine-driver-vmware.exe"
+  },
+  {
+    "Name": "vctl",
+    "Path": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\vctl.exe"
+  },
+  {
+    "Name": "java",
+    "Path": "C:\\ProgramData\\Oracle\\Java\\javapath\\java.exe"
+  },
+  {
+    "Name": "javaw",
+    "Path": "C:\\ProgramData\\Oracle\\Java\\javapath\\javaw.exe"
+  },
+  {
+    "Name": "javaws",
+    "Path": "C:\\ProgramData\\Oracle\\Java\\javapath\\javaws.exe"
+  },
+  {
+    "Name": "agentactivationruntimestarter",
+    "Path": "C:\\WINDOWS\\system32\\agentactivationruntimestarter.exe"
+  },
+  {
+    "Name": "AgentService",
+    "Path": "C:\\WINDOWS\\system32\\AgentService.exe"
+  },
+  {
+    "Name": "AggregatorHost",
+    "Path": "C:\\WINDOWS\\system32\\AggregatorHost.exe"
+  },
+  {
+    "Name": "aitstatic",
+    "Path": "C:\\WINDOWS\\system32\\aitstatic.exe"
+  },
+  {
+    "Name": "alg",
+    "Path": "C:\\WINDOWS\\system32\\alg.exe"
+  },
+  {
+    "Name": "AppHostRegistrationVerifier",
+    "Path": "C:\\WINDOWS\\system32\\AppHostRegistrationVerifier.exe"
+  },
+  {
+    "Name": "appidcertstorecheck",
+    "Path": "C:\\WINDOWS\\system32\\appidcertstorecheck.exe"
+  },
+  {
+    "Name": "appidpolicyconverter",
+    "Path": "C:\\WINDOWS\\system32\\appidpolicyconverter.exe"
+  },
+  {
+    "Name": "appidtel",
+    "Path": "C:\\WINDOWS\\system32\\appidtel.exe"
+  },
+  {
+    "Name": "AppInstallerBackgroundUpdate",
+    "Path": "C:\\WINDOWS\\system32\\AppInstallerBackgroundUpdate.exe"
+  },
+  {
+    "Name": "ApplicationFrameHost",
+    "Path": "C:\\WINDOWS\\system32\\ApplicationFrameHost.exe"
+  },
+  {
+    "Name": "ApplySettingsTemplateCatalog",
+    "Path": "C:\\WINDOWS\\system32\\ApplySettingsTemplateCatalog.exe"
+  },
+  {
+    "Name": "ApplyTrustOffline",
+    "Path": "C:\\WINDOWS\\system32\\ApplyTrustOffline.exe"
+  },
+  {
+    "Name": "ApproveChildRequest",
+    "Path": "C:\\WINDOWS\\system32\\ApproveChildRequest.exe"
+  },
+  {
+    "Name": "AppVClient",
+    "Path": "C:\\WINDOWS\\system32\\AppVClient.exe"
+  },
+  {
+    "Name": "AppVDllSurrogate",
+    "Path": "C:\\WINDOWS\\system32\\AppVDllSurrogate.exe"
+  },
+  {
+    "Name": "appverif",
+    "Path": "C:\\WINDOWS\\system32\\appverif.exe"
+  },
+  {
+    "Name": "AppVNice",
+    "Path": "C:\\WINDOWS\\system32\\AppVNice.exe"
+  },
+  {
+    "Name": "AppVShNotify",
+    "Path": "C:\\WINDOWS\\system32\\AppVShNotify.exe"
+  },
+  {
+    "Name": "ARP",
+    "Path": "C:\\WINDOWS\\system32\\ARP.EXE"
+  },
+  {
+    "Name": "AssignedAccessGuard",
+    "Path": "C:\\WINDOWS\\system32\\AssignedAccessGuard.exe"
+  },
+  {
+    "Name": "at",
+    "Path": "C:\\WINDOWS\\system32\\at.exe"
+  },
+  {
+    "Name": "AtBroker",
+    "Path": "C:\\WINDOWS\\system32\\AtBroker.exe"
+  },
+  {
+    "Name": "attrib",
+    "Path": "C:\\WINDOWS\\system32\\attrib.exe"
+  },
+  {
+    "Name": "audiodg",
+    "Path": "C:\\WINDOWS\\system32\\audiodg.exe"
+  },
+  {
+    "Name": "auditpol",
+    "Path": "C:\\WINDOWS\\system32\\auditpol.exe"
+  },
+  {
+    "Name": "AuthHost",
+    "Path": "C:\\WINDOWS\\system32\\AuthHost.exe"
+  },
+  {
+    "Name": "autochk",
+    "Path": "C:\\WINDOWS\\system32\\autochk.exe"
+  },
+  {
+    "Name": "autofstx",
+    "Path": "C:\\WINDOWS\\system32\\autofstx.exe"
+  },
+  {
+    "Name": "AxInstUI",
+    "Path": "C:\\WINDOWS\\system32\\AxInstUI.exe"
+  },
+  {
+    "Name": "backgroundTaskHost",
+    "Path": "C:\\WINDOWS\\system32\\backgroundTaskHost.exe"
+  },
+  {
+    "Name": "BackgroundTransferHost",
+    "Path": "C:\\WINDOWS\\system32\\BackgroundTransferHost.exe"
+  },
+  {
+    "Name": "bash",
+    "Path": "C:\\WINDOWS\\system32\\bash.exe"
+  },
+  {
+    "Name": "bcdboot",
+    "Path": "C:\\WINDOWS\\system32\\bcdboot.exe"
+  },
+  {
+    "Name": "bcdedit",
+    "Path": "C:\\WINDOWS\\system32\\bcdedit.exe"
+  },
+  {
+    "Name": "bdechangepin",
+    "Path": "C:\\WINDOWS\\system32\\bdechangepin.exe"
+  },
+  {
+    "Name": "BdeHdCfg",
+    "Path": "C:\\WINDOWS\\system32\\BdeHdCfg.exe"
+  },
+  {
+    "Name": "BdeUISrv",
+    "Path": "C:\\WINDOWS\\system32\\BdeUISrv.exe"
+  },
+  {
+    "Name": "bdeunlock",
+    "Path": "C:\\WINDOWS\\system32\\bdeunlock.exe"
+  },
+  {
+    "Name": "BioIso",
+    "Path": "C:\\WINDOWS\\system32\\BioIso.exe"
+  },
+  {
+    "Name": "BitLockerDeviceEncryption",
+    "Path": "C:\\WINDOWS\\system32\\BitLockerDeviceEncryption.exe"
+  },
+  {
+    "Name": "BitLockerWizard",
+    "Path": "C:\\WINDOWS\\system32\\BitLockerWizard.exe"
+  },
+  {
+    "Name": "BitLockerWizardElev",
+    "Path": "C:\\WINDOWS\\system32\\BitLockerWizardElev.exe"
+  },
+  {
+    "Name": "bitsadmin",
+    "Path": "C:\\WINDOWS\\system32\\bitsadmin.exe"
+  },
+  {
+    "Name": "bootim",
+    "Path": "C:\\WINDOWS\\system32\\bootim.exe"
+  },
+  {
+    "Name": "bootsect",
+    "Path": "C:\\WINDOWS\\system32\\bootsect.exe"
+  },
+  {
+    "Name": "bridgeunattend",
+    "Path": "C:\\WINDOWS\\system32\\bridgeunattend.exe"
+  },
+  {
+    "Name": "browserexport",
+    "Path": "C:\\WINDOWS\\system32\\browserexport.exe"
+  },
+  {
+    "Name": "browser_broker",
+    "Path": "C:\\WINDOWS\\system32\\browser_broker.exe"
+  },
+  {
+    "Name": "bthudtask",
+    "Path": "C:\\WINDOWS\\system32\\bthudtask.exe"
+  },
+  {
+    "Name": "ByteCodeGenerator",
+    "Path": "C:\\WINDOWS\\system32\\ByteCodeGenerator.exe"
+  },
+  {
+    "Name": "cacls",
+    "Path": "C:\\WINDOWS\\system32\\cacls.exe"
+  },
+  {
+    "Name": "calc",
+    "Path": "C:\\WINDOWS\\system32\\calc.exe"
+  },
+  {
+    "Name": "CameraSettingsUIHost",
+    "Path": "C:\\WINDOWS\\system32\\CameraSettingsUIHost.exe"
+  },
+  {
+    "Name": "CastSrv",
+    "Path": "C:\\WINDOWS\\system32\\CastSrv.exe"
+  },
+  {
+    "Name": "CertEnrollCtrl",
+    "Path": "C:\\WINDOWS\\system32\\CertEnrollCtrl.exe"
+  },
+  {
+    "Name": "certreq",
+    "Path": "C:\\WINDOWS\\system32\\certreq.exe"
+  },
+  {
+    "Name": "certutil",
+    "Path": "C:\\WINDOWS\\system32\\certutil.exe"
+  },
+  {
+    "Name": "change",
+    "Path": "C:\\WINDOWS\\system32\\change.exe"
+  },
+  {
+    "Name": "changepk",
+    "Path": "C:\\WINDOWS\\system32\\changepk.exe"
+  },
+  {
+    "Name": "charmap",
+    "Path": "C:\\WINDOWS\\system32\\charmap.exe"
+  },
+  {
+    "Name": "CheckNetIsolation",
+    "Path": "C:\\WINDOWS\\system32\\CheckNetIsolation.exe"
+  },
+  {
+    "Name": "chglogon",
+    "Path": "C:\\WINDOWS\\system32\\chglogon.exe"
+  },
+  {
+    "Name": "chgport",
+    "Path": "C:\\WINDOWS\\system32\\chgport.exe"
+  },
+  {
+    "Name": "chgusr",
+    "Path": "C:\\WINDOWS\\system32\\chgusr.exe"
+  },
+  {
+    "Name": "chkdsk",
+    "Path": "C:\\WINDOWS\\system32\\chkdsk.exe"
+  },
+  {
+    "Name": "chkntfs",
+    "Path": "C:\\WINDOWS\\system32\\chkntfs.exe"
+  },
+  {
+    "Name": "choice",
+    "Path": "C:\\WINDOWS\\system32\\choice.exe"
+  },
+  {
+    "Name": "CIDiag",
+    "Path": "C:\\WINDOWS\\system32\\CIDiag.exe"
+  },
+  {
+    "Name": "cipher",
+    "Path": "C:\\WINDOWS\\system32\\cipher.exe"
+  },
+  {
+    "Name": "CiTool",
+    "Path": "C:\\WINDOWS\\system32\\CiTool.exe"
+  },
+  {
+    "Name": "cleanmgr",
+    "Path": "C:\\WINDOWS\\system32\\cleanmgr.exe"
+  },
+  {
+    "Name": "cliconfg",
+    "Path": "C:\\WINDOWS\\system32\\cliconfg.exe"
+  },
+  {
+    "Name": "clip",
+    "Path": "C:\\WINDOWS\\system32\\clip.exe"
+  },
+  {
+    "Name": "ClipDLS",
+    "Path": "C:\\WINDOWS\\system32\\ClipDLS.exe"
+  },
+  {
+    "Name": "ClipRenew",
+    "Path": "C:\\WINDOWS\\system32\\ClipRenew.exe"
+  },
+  {
+    "Name": "ClipUp",
+    "Path": "C:\\WINDOWS\\system32\\ClipUp.exe"
+  },
+  {
+    "Name": "CloudExperienceHostBroker",
+    "Path": "C:\\WINDOWS\\system32\\CloudExperienceHostBroker.exe"
+  },
+  {
+    "Name": "CloudNotifications",
+    "Path": "C:\\WINDOWS\\system32\\CloudNotifications.exe"
+  },
+  {
+    "Name": "cmd",
+    "Path": "C:\\WINDOWS\\system32\\cmd.exe"
+  },
+  {
+    "Name": "cmdkey",
+    "Path": "C:\\WINDOWS\\system32\\cmdkey.exe"
+  },
+  {
+    "Name": "cmdl32",
+    "Path": "C:\\WINDOWS\\system32\\cmdl32.exe"
+  },
+  {
+    "Name": "cmmon32",
+    "Path": "C:\\WINDOWS\\system32\\cmmon32.exe"
+  },
+  {
+    "Name": "cmstp",
+    "Path": "C:\\WINDOWS\\system32\\cmstp.exe"
+  },
+  {
+    "Name": "cofire",
+    "Path": "C:\\WINDOWS\\system32\\cofire.exe"
+  },
+  {
+    "Name": "colorcpl",
+    "Path": "C:\\WINDOWS\\system32\\colorcpl.exe"
+  },
+  {
+    "Name": "comp",
+    "Path": "C:\\WINDOWS\\system32\\comp.exe"
+  },
+  {
+    "Name": "compact",
+    "Path": "C:\\WINDOWS\\system32\\compact.exe"
+  },
+  {
+    "Name": "CompatTelRunner",
+    "Path": "C:\\WINDOWS\\system32\\CompatTelRunner.exe"
+  },
+  {
+    "Name": "CompMgmtLauncher",
+    "Path": "C:\\WINDOWS\\system32\\CompMgmtLauncher.exe"
+  },
+  {
+    "Name": "CompPkgSrv",
+    "Path": "C:\\WINDOWS\\system32\\CompPkgSrv.exe"
+  },
+  {
+    "Name": "ComputerDefaults",
+    "Path": "C:\\WINDOWS\\system32\\ComputerDefaults.exe"
+  },
+  {
+    "Name": "conhost",
+    "Path": "C:\\WINDOWS\\system32\\conhost.exe"
+  },
+  {
+    "Name": "consent",
+    "Path": "C:\\WINDOWS\\system32\\consent.exe"
+  },
+  {
+    "Name": "control",
+    "Path": "C:\\WINDOWS\\system32\\control.exe"
+  },
+  {
+    "Name": "convert",
+    "Path": "C:\\WINDOWS\\system32\\convert.exe"
+  },
+  {
+    "Name": "convertvhd",
+    "Path": "C:\\WINDOWS\\system32\\convertvhd.exe"
+  },
+  {
+    "Name": "coredpussvr",
+    "Path": "C:\\WINDOWS\\system32\\coredpussvr.exe"
+  },
+  {
+    "Name": "CredentialEnrollmentManager",
+    "Path": "C:\\WINDOWS\\system32\\CredentialEnrollmentManager.exe"
+  },
+  {
+    "Name": "CredentialUIBroker",
+    "Path": "C:\\WINDOWS\\system32\\CredentialUIBroker.exe"
+  },
+  {
+    "Name": "credwiz",
+    "Path": "C:\\WINDOWS\\system32\\credwiz.exe"
+  },
+  {
+    "Name": "cscript",
+    "Path": "C:\\WINDOWS\\system32\\cscript.exe"
+  },
+  {
+    "Name": "csrss",
+    "Path": "C:\\WINDOWS\\system32\\csrss.exe"
+  },
+  {
+    "Name": "ctfmon",
+    "Path": "C:\\WINDOWS\\system32\\ctfmon.exe"
+  },
+  {
+    "Name": "cttune",
+    "Path": "C:\\WINDOWS\\system32\\cttune.exe"
+  },
+  {
+    "Name": "cttunesvr",
+    "Path": "C:\\WINDOWS\\system32\\cttunesvr.exe"
+  },
+  {
+    "Name": "curl",
+    "Path": "C:\\WINDOWS\\system32\\curl.exe"
+  },
+  {
+    "Name": "CustomInstallExec",
+    "Path": "C:\\WINDOWS\\system32\\CustomInstallExec.exe"
+  },
+  {
+    "Name": "CustomShellHost",
+    "Path": "C:\\WINDOWS\\system32\\CustomShellHost.exe"
+  },
+  {
+    "Name": "d3dconfig",
+    "Path": "C:\\WINDOWS\\system32\\d3dconfig.exe"
+  },
+  {
+    "Name": "dasHost",
+    "Path": "C:\\WINDOWS\\system32\\dasHost.exe"
+  },
+  {
+    "Name": "DataExchangeHost",
+    "Path": "C:\\WINDOWS\\system32\\DataExchangeHost.exe"
+  },
+  {
+    "Name": "DataStoreCacheDumpTool",
+    "Path": "C:\\WINDOWS\\system32\\DataStoreCacheDumpTool.exe"
+  },
+  {
+    "Name": "dccw",
+    "Path": "C:\\WINDOWS\\system32\\dccw.exe"
+  },
+  {
+    "Name": "dcomcnfg",
+    "Path": "C:\\WINDOWS\\system32\\dcomcnfg.exe"
+  },
+  {
+    "Name": "ddodiag",
+    "Path": "C:\\WINDOWS\\system32\\ddodiag.exe"
+  },
+  {
+    "Name": "Defrag",
+    "Path": "C:\\WINDOWS\\system32\\Defrag.exe"
+  },
+  {
+    "Name": "deploymentcsphelper",
+    "Path": "C:\\WINDOWS\\system32\\deploymentcsphelper.exe"
+  },
+  {
+    "Name": "desktopimgdownldr",
+    "Path": "C:\\WINDOWS\\system32\\desktopimgdownldr.exe"
+  },
+  {
+    "Name": "DeviceCensus",
+    "Path": "C:\\WINDOWS\\system32\\DeviceCensus.exe"
+  },
+  {
+    "Name": "DeviceCredentialDeployment",
+    "Path": "C:\\WINDOWS\\system32\\DeviceCredentialDeployment.exe"
+  },
+  {
+    "Name": "DeviceEject",
+    "Path": "C:\\WINDOWS\\system32\\DeviceEject.exe"
+  },
+  {
+    "Name": "DeviceEnroller",
+    "Path": "C:\\WINDOWS\\system32\\DeviceEnroller.exe"
+  },
+  {
+    "Name": "DevicePairingWizard",
+    "Path": "C:\\WINDOWS\\system32\\DevicePairingWizard.exe"
+  },
+  {
+    "Name": "DeviceProperties",
+    "Path": "C:\\WINDOWS\\system32\\DeviceProperties.exe"
+  },
+  {
+    "Name": "DFDWiz",
+    "Path": "C:\\WINDOWS\\system32\\DFDWiz.exe"
+  },
+  {
+    "Name": "dfrgui",
+    "Path": "C:\\WINDOWS\\system32\\dfrgui.exe"
+  },
+  {
+    "Name": "dialer",
+    "Path": "C:\\WINDOWS\\system32\\dialer.exe"
+  },
+  {
+    "Name": "directxdatabaseupdater",
+    "Path": "C:\\WINDOWS\\system32\\directxdatabaseupdater.exe"
+  },
+  {
+    "Name": "diskpart",
+    "Path": "C:\\WINDOWS\\system32\\diskpart.exe"
+  },
+  {
+    "Name": "diskperf",
+    "Path": "C:\\WINDOWS\\system32\\diskperf.exe"
+  },
+  {
+    "Name": "diskraid",
+    "Path": "C:\\WINDOWS\\system32\\diskraid.exe"
+  },
+  {
+    "Name": "DiskSnapshot",
+    "Path": "C:\\WINDOWS\\system32\\DiskSnapshot.exe"
+  },
+  {
+    "Name": "diskusage",
+    "Path": "C:\\WINDOWS\\system32\\diskusage.exe"
+  },
+  {
+    "Name": "Dism",
+    "Path": "C:\\WINDOWS\\system32\\Dism.exe"
+  },
+  {
+    "Name": "dispdiag",
+    "Path": "C:\\WINDOWS\\system32\\dispdiag.exe"
+  },
+  {
+    "Name": "DisplaySwitch",
+    "Path": "C:\\WINDOWS\\system32\\DisplaySwitch.exe"
+  },
+  {
+    "Name": "djoin",
+    "Path": "C:\\WINDOWS\\system32\\djoin.exe"
+  },
+  {
+    "Name": "dllhost",
+    "Path": "C:\\WINDOWS\\system32\\dllhost.exe"
+  },
+  {
+    "Name": "dllhst3g",
+    "Path": "C:\\WINDOWS\\system32\\dllhst3g.exe"
+  },
+  {
+    "Name": "dmcertinst",
+    "Path": "C:\\WINDOWS\\system32\\dmcertinst.exe"
+  },
+  {
+    "Name": "dmcfghost",
+    "Path": "C:\\WINDOWS\\system32\\dmcfghost.exe"
+  },
+  {
+    "Name": "dmclient",
+    "Path": "C:\\WINDOWS\\system32\\dmclient.exe"
+  },
+  {
+    "Name": "DmNotificationBroker",
+    "Path": "C:\\WINDOWS\\system32\\DmNotificationBroker.exe"
+  },
+  {
+    "Name": "DmOmaCpMo",
+    "Path": "C:\\WINDOWS\\system32\\DmOmaCpMo.exe"
+  },
+  {
+    "Name": "dns-sd",
+    "Path": "C:\\WINDOWS\\system32\\dns-sd.exe"
+  },
+  {
+    "Name": "dnscacheugc",
+    "Path": "C:\\WINDOWS\\system32\\dnscacheugc.exe"
+  },
+  {
+    "Name": "doskey",
+    "Path": "C:\\WINDOWS\\system32\\doskey.exe"
+  },
+  {
+    "Name": "dpapimig",
+    "Path": "C:\\WINDOWS\\system32\\dpapimig.exe"
+  },
+  {
+    "Name": "DpiScaling",
+    "Path": "C:\\WINDOWS\\system32\\DpiScaling.exe"
+  },
+  {
+    "Name": "dpnsvr",
+    "Path": "C:\\WINDOWS\\system32\\dpnsvr.exe"
+  },
+  {
+    "Name": "driverquery",
+    "Path": "C:\\WINDOWS\\system32\\driverquery.exe"
+  },
+  {
+    "Name": "drvinst",
+    "Path": "C:\\WINDOWS\\system32\\drvinst.exe"
+  },
+  {
+    "Name": "DsmUserTask",
+    "Path": "C:\\WINDOWS\\system32\\DsmUserTask.exe"
+  },
+  {
+    "Name": "dsregcmd",
+    "Path": "C:\\WINDOWS\\system32\\dsregcmd.exe"
+  },
+  {
+    "Name": "dstokenclean",
+    "Path": "C:\\WINDOWS\\system32\\dstokenclean.exe"
+  },
+  {
+    "Name": "dtdump",
+    "Path": "C:\\WINDOWS\\system32\\dtdump.exe"
+  },
+  {
+    "Name": "dusmtask",
+    "Path": "C:\\WINDOWS\\system32\\dusmtask.exe"
+  },
+  {
+    "Name": "dvdplay",
+    "Path": "C:\\WINDOWS\\system32\\dvdplay.exe"
+  },
+  {
+    "Name": "dwm",
+    "Path": "C:\\WINDOWS\\system32\\dwm.exe"
+  },
+  {
+    "Name": "DWWIN",
+    "Path": "C:\\WINDOWS\\system32\\DWWIN.EXE"
+  },
+  {
+    "Name": "DXCap",
+    "Path": "C:\\WINDOWS\\system32\\DXCap.exe"
+  },
+  {
+    "Name": "DXCpl",
+    "Path": "C:\\WINDOWS\\system32\\DXCpl.exe"
+  },
+  {
+    "Name": "dxdiag",
+    "Path": "C:\\WINDOWS\\system32\\dxdiag.exe"
+  },
+  {
+    "Name": "dxgiadaptercache",
+    "Path": "C:\\WINDOWS\\system32\\dxgiadaptercache.exe"
+  },
+  {
+    "Name": "Dxpserver",
+    "Path": "C:\\WINDOWS\\system32\\Dxpserver.exe"
+  },
+  {
+    "Name": "Eap3Host",
+    "Path": "C:\\WINDOWS\\system32\\Eap3Host.exe"
+  },
+  {
+    "Name": "EaseOfAccessDialog",
+    "Path": "C:\\WINDOWS\\system32\\EaseOfAccessDialog.exe"
+  },
+  {
+    "Name": "easinvoker",
+    "Path": "C:\\WINDOWS\\system32\\easinvoker.exe"
+  },
+  {
+    "Name": "EASPolicyManagerBrokerHost",
+    "Path": "C:\\WINDOWS\\system32\\EASPolicyManagerBrokerHost.exe"
+  },
+  {
+    "Name": "EDPCleanup",
+    "Path": "C:\\WINDOWS\\system32\\EDPCleanup.exe"
+  },
+  {
+    "Name": "edpnotify",
+    "Path": "C:\\WINDOWS\\system32\\edpnotify.exe"
+  },
+  {
+    "Name": "EduPrintProv",
+    "Path": "C:\\WINDOWS\\system32\\EduPrintProv.exe"
+  },
+  {
+    "Name": "efsui",
+    "Path": "C:\\WINDOWS\\system32\\efsui.exe"
+  },
+  {
+    "Name": "EhStorAuthn",
+    "Path": "C:\\WINDOWS\\system32\\EhStorAuthn.exe"
+  },
+  {
+    "Name": "EoAExperiences",
+    "Path": "C:\\WINDOWS\\system32\\EoAExperiences.exe"
+  },
+  {
+    "Name": "esentutl",
+    "Path": "C:\\WINDOWS\\system32\\esentutl.exe"
+  },
+  {
+    "Name": "esimtool",
+    "Path": "C:\\WINDOWS\\system32\\esimtool.exe"
+  },
+  {
+    "Name": "eudcedit",
+    "Path": "C:\\WINDOWS\\system32\\eudcedit.exe"
+  },
+  {
+    "Name": "eventcreate",
+    "Path": "C:\\WINDOWS\\system32\\eventcreate.exe"
+  },
+  {
+    "Name": "eventvwr",
+    "Path": "C:\\WINDOWS\\system32\\eventvwr.exe"
+  },
+  {
+    "Name": "expand",
+    "Path": "C:\\WINDOWS\\system32\\expand.exe"
+  },
+  {
+    "Name": "extrac32",
+    "Path": "C:\\WINDOWS\\system32\\extrac32.exe"
+  },
+  {
+    "Name": "fc",
+    "Path": "C:\\WINDOWS\\system32\\fc.exe"
+  },
+  {
+    "Name": "fclip",
+    "Path": "C:\\WINDOWS\\system32\\fclip.exe"
+  },
+  {
+    "Name": "fhmanagew",
+    "Path": "C:\\WINDOWS\\system32\\fhmanagew.exe"
+  },
+  {
+    "Name": "FileDialogBroker",
+    "Path": "C:\\WINDOWS\\system32\\FileDialogBroker.exe"
+  },
+  {
+    "Name": "FileHistory",
+    "Path": "C:\\WINDOWS\\system32\\FileHistory.exe"
+  },
+  {
+    "Name": "find",
+    "Path": "C:\\WINDOWS\\system32\\find.exe"
+  },
+  {
+    "Name": "findstr",
+    "Path": "C:\\WINDOWS\\system32\\findstr.exe"
+  },
+  {
+    "Name": "finger",
+    "Path": "C:\\WINDOWS\\system32\\finger.exe"
+  },
+  {
+    "Name": "fixmapi",
+    "Path": "C:\\WINDOWS\\system32\\fixmapi.exe"
+  },
+  {
+    "Name": "fltMC",
+    "Path": "C:\\WINDOWS\\system32\\fltMC.exe"
+  },
+  {
+    "Name": "fodhelper",
+    "Path": "C:\\WINDOWS\\system32\\fodhelper.exe"
+  },
+  {
+    "Name": "Fondue",
+    "Path": "C:\\WINDOWS\\system32\\Fondue.exe"
+  },
+  {
+    "Name": "fontdrvhost",
+    "Path": "C:\\WINDOWS\\system32\\fontdrvhost.exe"
+  },
+  {
+    "Name": "fontview",
+    "Path": "C:\\WINDOWS\\system32\\fontview.exe"
+  },
+  {
+    "Name": "forfiles",
+    "Path": "C:\\WINDOWS\\system32\\forfiles.exe"
+  },
+  {
+    "Name": "fsavailux",
+    "Path": "C:\\WINDOWS\\system32\\fsavailux.exe"
+  },
+  {
+    "Name": "FsIso",
+    "Path": "C:\\WINDOWS\\system32\\FsIso.exe"
+  },
+  {
+    "Name": "fsquirt",
+    "Path": "C:\\WINDOWS\\system32\\fsquirt.exe"
+  },
+  {
+    "Name": "fsutil",
+    "Path": "C:\\WINDOWS\\system32\\fsutil.exe"
+  },
+  {
+    "Name": "ftp",
+    "Path": "C:\\WINDOWS\\system32\\ftp.exe"
+  },
+  {
+    "Name": "fvenotify",
+    "Path": "C:\\WINDOWS\\system32\\fvenotify.exe"
+  },
+  {
+    "Name": "fveprompt",
+    "Path": "C:\\WINDOWS\\system32\\fveprompt.exe"
+  },
+  {
+    "Name": "FXSCOVER",
+    "Path": "C:\\WINDOWS\\system32\\FXSCOVER.exe"
+  },
+  {
+    "Name": "FXSSVC",
+    "Path": "C:\\WINDOWS\\system32\\FXSSVC.exe"
+  },
+  {
+    "Name": "FXSUNATD",
+    "Path": "C:\\WINDOWS\\system32\\FXSUNATD.exe"
+  },
+  {
+    "Name": "GameBarPresenceWriter",
+    "Path": "C:\\WINDOWS\\system32\\GameBarPresenceWriter.exe"
+  },
+  {
+    "Name": "GameInputSvc",
+    "Path": "C:\\WINDOWS\\system32\\GameInputSvc.exe"
+  },
+  {
+    "Name": "GamePanel",
+    "Path": "C:\\WINDOWS\\system32\\GamePanel.exe"
+  },
+  {
+    "Name": "GenValObj",
+    "Path": "C:\\WINDOWS\\system32\\GenValObj.exe"
+  },
+  {
+    "Name": "getmac",
+    "Path": "C:\\WINDOWS\\system32\\getmac.exe"
+  },
+  {
+    "Name": "gpresult",
+    "Path": "C:\\WINDOWS\\system32\\gpresult.exe"
+  },
+  {
+    "Name": "gpscript",
+    "Path": "C:\\WINDOWS\\system32\\gpscript.exe"
+  },
+  {
+    "Name": "gpupdate",
+    "Path": "C:\\WINDOWS\\system32\\gpupdate.exe"
+  },
+  {
+    "Name": "grpconv",
+    "Path": "C:\\WINDOWS\\system32\\grpconv.exe"
+  },
+  {
+    "Name": "hcsdiag",
+    "Path": "C:\\WINDOWS\\system32\\hcsdiag.exe"
+  },
+  {
+    "Name": "hdwwiz",
+    "Path": "C:\\WINDOWS\\system32\\hdwwiz.exe"
+  },
+  {
+    "Name": "help",
+    "Path": "C:\\WINDOWS\\system32\\help.exe"
+  },
+  {
+    "Name": "hnsdiag",
+    "Path": "C:\\WINDOWS\\system32\\hnsdiag.exe"
+  },
+  {
+    "Name": "HOSTNAME",
+    "Path": "C:\\WINDOWS\\system32\\HOSTNAME.EXE"
+  },
+  {
+    "Name": "hvax64",
+    "Path": "C:\\WINDOWS\\system32\\hvax64.exe"
+  },
+  {
+    "Name": "hvix64",
+    "Path": "C:\\WINDOWS\\system32\\hvix64.exe"
+  },
+  {
+    "Name": "hvsievaluator",
+    "Path": "C:\\WINDOWS\\system32\\hvsievaluator.exe"
+  },
+  {
+    "Name": "iaStorAfsNative",
+    "Path": "C:\\WINDOWS\\system32\\iaStorAfsNative.exe"
+  },
+  {
+    "Name": "iaStorAfsService",
+    "Path": "C:\\WINDOWS\\system32\\iaStorAfsService.exe"
+  },
+  {
+    "Name": "icacls",
+    "Path": "C:\\WINDOWS\\system32\\icacls.exe"
+  },
+  {
+    "Name": "icsunattend",
+    "Path": "C:\\WINDOWS\\system32\\icsunattend.exe"
+  },
+  {
+    "Name": "ie4uinit",
+    "Path": "C:\\WINDOWS\\system32\\ie4uinit.exe"
+  },
+  {
+    "Name": "ie4ushowIE",
+    "Path": "C:\\WINDOWS\\system32\\ie4ushowIE.exe"
+  },
+  {
+    "Name": "IESettingSync",
+    "Path": "C:\\WINDOWS\\system32\\IESettingSync.exe"
+  },
+  {
+    "Name": "ieUnatt",
+    "Path": "C:\\WINDOWS\\system32\\ieUnatt.exe"
+  },
+  {
+    "Name": "iexpress",
+    "Path": "C:\\WINDOWS\\system32\\iexpress.exe"
+  },
+  {
+    "Name": "immersivetpmvscmgrsvr",
+    "Path": "C:\\WINDOWS\\system32\\immersivetpmvscmgrsvr.exe"
+  },
+  {
+    "Name": "InfDefaultInstall",
+    "Path": "C:\\WINDOWS\\system32\\InfDefaultInstall.exe"
+  },
+  {
+    "Name": "InputSwitchToastHandler",
+    "Path": "C:\\WINDOWS\\system32\\InputSwitchToastHandler.exe"
+  },
+  {
+    "Name": "iotstartup",
+    "Path": "C:\\WINDOWS\\system32\\iotstartup.exe"
+  },
+  {
+    "Name": "ipconfig",
+    "Path": "C:\\WINDOWS\\system32\\ipconfig.exe"
+  },
+  {
+    "Name": "iscsicli",
+    "Path": "C:\\WINDOWS\\system32\\iscsicli.exe"
+  },
+  {
+    "Name": "iscsicpl",
+    "Path": "C:\\WINDOWS\\system32\\iscsicpl.exe"
+  },
+  {
+    "Name": "ISM",
+    "Path": "C:\\WINDOWS\\system32\\ISM.exe"
+  },
+  {
+    "Name": "isoburn",
+    "Path": "C:\\WINDOWS\\system32\\isoburn.exe"
+  },
+  {
+    "Name": "klist",
+    "Path": "C:\\WINDOWS\\system32\\klist.exe"
+  },
+  {
+    "Name": "ksetup",
+    "Path": "C:\\WINDOWS\\system32\\ksetup.exe"
+  },
+  {
+    "Name": "ktmutil",
+    "Path": "C:\\WINDOWS\\system32\\ktmutil.exe"
+  },
+  {
+    "Name": "la57setup",
+    "Path": "C:\\WINDOWS\\system32\\la57setup.exe"
+  },
+  {
+    "Name": "label",
+    "Path": "C:\\WINDOWS\\system32\\label.exe"
+  },
+  {
+    "Name": "LanguageComponentsInstallerComHandler",
+    "Path": "C:\\WINDOWS\\system32\\LanguageComponentsInstallerComHandler.exe"
+  },
+  {
+    "Name": "LaunchTM",
+    "Path": "C:\\WINDOWS\\system32\\LaunchTM.exe"
+  },
+  {
+    "Name": "LaunchWinApp",
+    "Path": "C:\\WINDOWS\\system32\\LaunchWinApp.exe"
+  },
+  {
+    "Name": "LegacyNetUXHost",
+    "Path": "C:\\WINDOWS\\system32\\LegacyNetUXHost.exe"
+  },
+  {
+    "Name": "LicenseManagerShellext",
+    "Path": "C:\\WINDOWS\\system32\\LicenseManagerShellext.exe"
+  },
+  {
+    "Name": "licensingdiag",
+    "Path": "C:\\WINDOWS\\system32\\licensingdiag.exe"
+  },
+  {
+    "Name": "LicensingUI",
+    "Path": "C:\\WINDOWS\\system32\\LicensingUI.exe"
+  },
+  {
+    "Name": "LiveCaptions",
+    "Path": "C:\\WINDOWS\\system32\\LiveCaptions.exe"
+  },
+  {
+    "Name": "Locator",
+    "Path": "C:\\WINDOWS\\system32\\Locator.exe"
+  },
+  {
+    "Name": "LockAppHost",
+    "Path": "C:\\WINDOWS\\system32\\LockAppHost.exe"
+  },
+  {
+    "Name": "LockScreenContentServer",
+    "Path": "C:\\WINDOWS\\system32\\LockScreenContentServer.exe"
+  },
+  {
+    "Name": "lodctr",
+    "Path": "C:\\WINDOWS\\system32\\lodctr.exe"
+  },
+  {
+    "Name": "logagent",
+    "Path": "C:\\WINDOWS\\system32\\logagent.exe"
+  },
+  {
+    "Name": "logman",
+    "Path": "C:\\WINDOWS\\system32\\logman.exe"
+  },
+  {
+    "Name": "logoff",
+    "Path": "C:\\WINDOWS\\system32\\logoff.exe"
+  },
+  {
+    "Name": "LogonUI",
+    "Path": "C:\\WINDOWS\\system32\\LogonUI.exe"
+  },
+  {
+    "Name": "lpkinstall",
+    "Path": "C:\\WINDOWS\\system32\\lpkinstall.exe"
+  },
+  {
+    "Name": "lpksetup",
+    "Path": "C:\\WINDOWS\\system32\\lpksetup.exe"
+  },
+  {
+    "Name": "lpremove",
+    "Path": "C:\\WINDOWS\\system32\\lpremove.exe"
+  },
+  {
+    "Name": "LsaIso",
+    "Path": "C:\\WINDOWS\\system32\\LsaIso.exe"
+  },
+  {
+    "Name": "lsass",
+    "Path": "C:\\WINDOWS\\system32\\lsass.exe"
+  },
+  {
+    "Name": "Magnify",
+    "Path": "C:\\WINDOWS\\system32\\Magnify.exe"
+  },
+  {
+    "Name": "makecab",
+    "Path": "C:\\WINDOWS\\system32\\makecab.exe"
+  },
+  {
+    "Name": "manage-bde",
+    "Path": "C:\\WINDOWS\\system32\\manage-bde.exe"
+  },
+  {
+    "Name": "mavinject",
+    "Path": "C:\\WINDOWS\\system32\\mavinject.exe"
+  },
+  {
+    "Name": "mblctr",
+    "Path": "C:\\WINDOWS\\system32\\mblctr.exe"
+  },
+  {
+    "Name": "MBR2GPT",
+    "Path": "C:\\WINDOWS\\system32\\MBR2GPT.EXE"
+  },
+  {
+    "Name": "mcbuilder",
+    "Path": "C:\\WINDOWS\\system32\\mcbuilder.exe"
+  },
+  {
+    "Name": "MCU",
+    "Path": "C:\\WINDOWS\\system32\\MCU.exe"
+  },
+  {
+    "Name": "MDEServer",
+    "Path": "C:\\WINDOWS\\system32\\MDEServer.exe"
+  },
+  {
+    "Name": "MDMAgent",
+    "Path": "C:\\WINDOWS\\system32\\MDMAgent.exe"
+  },
+  {
+    "Name": "MDMAppInstaller",
+    "Path": "C:\\WINDOWS\\system32\\MDMAppInstaller.exe"
+  },
+  {
+    "Name": "MdmDiagnosticsTool",
+    "Path": "C:\\WINDOWS\\system32\\MdmDiagnosticsTool.exe"
+  },
+  {
+    "Name": "MdRes",
+    "Path": "C:\\WINDOWS\\system32\\MdRes.exe"
+  },
+  {
+    "Name": "MdSched",
+    "Path": "C:\\WINDOWS\\system32\\MdSched.exe"
+  },
+  {
+    "Name": "mfpmp",
+    "Path": "C:\\WINDOWS\\system32\\mfpmp.exe"
+  },
+  {
+    "Name": "Microsoft.Uev.CscUnpinTool",
+    "Path": "C:\\WINDOWS\\system32\\Microsoft.Uev.CscUnpinTool.exe"
+  },
+  {
+    "Name": "Microsoft.Uev.SyncController",
+    "Path": "C:\\WINDOWS\\system32\\Microsoft.Uev.SyncController.exe"
+  },
+  {
+    "Name": "microsoft.windows.softwarelogo.showdesktop",
+    "Path": "C:\\WINDOWS\\system32\\microsoft.windows.softwarelogo.showdesktop.exe"
+  },
+  {
+    "Name": "MicrosoftEdgeBCHost",
+    "Path": "C:\\WINDOWS\\system32\\MicrosoftEdgeBCHost.exe"
+  },
+  {
+    "Name": "MicrosoftEdgeCP",
+    "Path": "C:\\WINDOWS\\system32\\MicrosoftEdgeCP.exe"
+  },
+  {
+    "Name": "MicrosoftEdgeDevTools",
+    "Path": "C:\\WINDOWS\\system32\\MicrosoftEdgeDevTools.exe"
+  },
+  {
+    "Name": "MicrosoftEdgeSH",
+    "Path": "C:\\WINDOWS\\system32\\MicrosoftEdgeSH.exe"
+  },
+  {
+    "Name": "MLEngineStub",
+    "Path": "C:\\WINDOWS\\system32\\MLEngineStub.exe"
+  },
+  {
+    "Name": "mmc",
+    "Path": "C:\\WINDOWS\\system32\\mmc.exe"
+  },
+  {
+    "Name": "mmgaserver",
+    "Path": "C:\\WINDOWS\\system32\\mmgaserver.exe"
+  },
+  {
+    "Name": "mobsync",
+    "Path": "C:\\WINDOWS\\system32\\mobsync.exe"
+  },
+  {
+    "Name": "MoNotificationUxStub",
+    "Path": "C:\\WINDOWS\\system32\\MoNotificationUxStub.exe"
+  },
+  {
+    "Name": "mountvol",
+    "Path": "C:\\WINDOWS\\system32\\mountvol.exe"
+  },
+  {
+    "Name": "mpnotify",
+    "Path": "C:\\WINDOWS\\system32\\mpnotify.exe"
+  },
+  {
+    "Name": "MpSigStub",
+    "Path": "C:\\WINDOWS\\system32\\MpSigStub.exe"
+  },
+  {
+    "Name": "MRINFO",
+    "Path": "C:\\WINDOWS\\system32\\MRINFO.EXE"
+  },
+  {
+    "Name": "MRT",
+    "Path": "C:\\WINDOWS\\system32\\MRT.exe"
+  },
+  {
+    "Name": "MSchedExe",
+    "Path": "C:\\WINDOWS\\system32\\MSchedExe.exe"
+  },
+  {
+    "Name": "msconfig",
+    "Path": "C:\\WINDOWS\\system32\\msconfig.exe"
+  },
+  {
+    "Name": "msdt",
+    "Path": "C:\\WINDOWS\\system32\\msdt.exe"
+  },
+  {
+    "Name": "msdtc",
+    "Path": "C:\\WINDOWS\\system32\\msdtc.exe"
+  },
+  {
+    "Name": "msfeedssync",
+    "Path": "C:\\WINDOWS\\system32\\msfeedssync.exe"
+  },
+  {
+    "Name": "msg",
+    "Path": "C:\\WINDOWS\\system32\\msg.exe"
+  },
+  {
+    "Name": "mshta",
+    "Path": "C:\\WINDOWS\\system32\\mshta.exe"
+  },
+  {
+    "Name": "msiexec",
+    "Path": "C:\\WINDOWS\\system32\\msiexec.exe"
+  },
+  {
+    "Name": "msinfo32",
+    "Path": "C:\\WINDOWS\\system32\\msinfo32.exe"
+  },
+  {
+    "Name": "msra",
+    "Path": "C:\\WINDOWS\\system32\\msra.exe"
+  },
+  {
+    "Name": "MsSpellCheckingHost",
+    "Path": "C:\\WINDOWS\\system32\\MsSpellCheckingHost.exe"
+  },
+  {
+    "Name": "mstsc",
+    "Path": "C:\\WINDOWS\\system32\\mstsc.exe"
+  },
+  {
+    "Name": "mtstocom",
+    "Path": "C:\\WINDOWS\\system32\\mtstocom.exe"
+  },
+  {
+    "Name": "MuiUnattend",
+    "Path": "C:\\WINDOWS\\system32\\MuiUnattend.exe"
+  },
+  {
+    "Name": "MultiDigiMon",
+    "Path": "C:\\WINDOWS\\system32\\MultiDigiMon.exe"
+  },
+  {
+    "Name": "Narrator",
+    "Path": "C:\\WINDOWS\\system32\\Narrator.exe"
+  },
+  {
+    "Name": "nbtstat",
+    "Path": "C:\\WINDOWS\\system32\\nbtstat.exe"
+  },
+  {
+    "Name": "ndadmin",
+    "Path": "C:\\WINDOWS\\system32\\ndadmin.exe"
+  },
+  {
+    "Name": "NDKPerfCmd",
+    "Path": "C:\\WINDOWS\\system32\\NDKPerfCmd.exe"
+  },
+  {
+    "Name": "NDKPing",
+    "Path": "C:\\WINDOWS\\system32\\NDKPing.exe"
+  },
+  {
+    "Name": "net",
+    "Path": "C:\\WINDOWS\\system32\\net.exe"
+  },
+  {
+    "Name": "net1",
+    "Path": "C:\\WINDOWS\\system32\\net1.exe"
+  },
+  {
+    "Name": "netbtugc",
+    "Path": "C:\\WINDOWS\\system32\\netbtugc.exe"
+  },
+  {
+    "Name": "netcfg",
+    "Path": "C:\\WINDOWS\\system32\\netcfg.exe"
+  },
+  {
+    "Name": "NetCfgNotifyObjectHost",
+    "Path": "C:\\WINDOWS\\system32\\NetCfgNotifyObjectHost.exe"
+  },
+  {
+    "Name": "NetEvtFwdr",
+    "Path": "C:\\WINDOWS\\system32\\NetEvtFwdr.exe"
+  },
+  {
+    "Name": "NetHost",
+    "Path": "C:\\WINDOWS\\system32\\NetHost.exe"
+  },
+  {
+    "Name": "netiougc",
+    "Path": "C:\\WINDOWS\\system32\\netiougc.exe"
+  },
+  {
+    "Name": "Netplwiz",
+    "Path": "C:\\WINDOWS\\system32\\Netplwiz.exe"
+  },
+  {
+    "Name": "netsh",
+    "Path": "C:\\WINDOWS\\system32\\netsh.exe"
+  },
+  {
+    "Name": "NETSTAT",
+    "Path": "C:\\WINDOWS\\system32\\NETSTAT.EXE"
+  },
+  {
+    "Name": "newdev",
+    "Path": "C:\\WINDOWS\\system32\\newdev.exe"
+  },
+  {
+    "Name": "NgcIso",
+    "Path": "C:\\WINDOWS\\system32\\NgcIso.exe"
+  },
+  {
+    "Name": "nltest",
+    "Path": "C:\\WINDOWS\\system32\\nltest.exe"
+  },
+  {
+    "Name": "nmbind",
+    "Path": "C:\\WINDOWS\\system32\\nmbind.exe"
+  },
+  {
+    "Name": "nmscrub",
+    "Path": "C:\\WINDOWS\\system32\\nmscrub.exe"
+  },
+  {
+    "Name": "notepad",
+    "Path": "C:\\WINDOWS\\system32\\notepad.exe"
+  },
+  {
+    "Name": "NpcapHelper",
+    "Path": "C:\\WINDOWS\\system32\\NpcapHelper.exe"
+  },
+  {
+    "Name": "nslookup",
+    "Path": "C:\\WINDOWS\\system32\\nslookup.exe"
+  },
+  {
+    "Name": "ntoskrnl",
+    "Path": "C:\\WINDOWS\\system32\\ntoskrnl.exe"
+  },
+  {
+    "Name": "ntprint",
+    "Path": "C:\\WINDOWS\\system32\\ntprint.exe"
+  },
+  {
+    "Name": "nvdebugdump",
+    "Path": "C:\\WINDOWS\\system32\\nvdebugdump.exe"
+  },
+  {
+    "Name": "nvidia-pcc",
+    "Path": "C:\\WINDOWS\\system32\\nvidia-pcc.exe"
+  },
+  {
+    "Name": "nvidia-smi",
+    "Path": "C:\\WINDOWS\\system32\\nvidia-smi.exe"
+  },
+  {
+    "Name": "nvspinfo",
+    "Path": "C:\\WINDOWS\\system32\\nvspinfo.exe"
+  },
+  {
+    "Name": "odbcad32",
+    "Path": "C:\\WINDOWS\\system32\\odbcad32.exe"
+  },
+  {
+    "Name": "odbcconf",
+    "Path": "C:\\WINDOWS\\system32\\odbcconf.exe"
+  },
+  {
+    "Name": "ofdeploy",
+    "Path": "C:\\WINDOWS\\system32\\ofdeploy.exe"
+  },
+  {
+    "Name": "omadmclient",
+    "Path": "C:\\WINDOWS\\system32\\omadmclient.exe"
+  },
+  {
+    "Name": "omadmprc",
+    "Path": "C:\\WINDOWS\\system32\\omadmprc.exe"
+  },
+  {
+    "Name": "OneDriveSetup",
+    "Path": "C:\\WINDOWS\\system32\\OneDriveSetup.exe"
+  },
+  {
+    "Name": "OOBEFodSetup",
+    "Path": "C:\\WINDOWS\\system32\\OOBEFodSetup.exe"
+  },
+  {
+    "Name": "OobeShellHost",
+    "Path": "C:\\WINDOWS\\system32\\OobeShellHost.exe"
+  },
+  {
+    "Name": "openfiles",
+    "Path": "C:\\WINDOWS\\system32\\openfiles.exe"
+  },
+  {
+    "Name": "OpenWith",
+    "Path": "C:\\WINDOWS\\system32\\OpenWith.exe"
+  },
+  {
+    "Name": "OptionalFeatures",
+    "Path": "C:\\WINDOWS\\system32\\OptionalFeatures.exe"
+  },
+  {
+    "Name": "osk",
+    "Path": "C:\\WINDOWS\\system32\\osk.exe"
+  },
+  {
+    "Name": "pacjsworker",
+    "Path": "C:\\WINDOWS\\system32\\pacjsworker.exe"
+  },
+  {
+    "Name": "PackagedCWALauncher",
+    "Path": "C:\\WINDOWS\\system32\\PackagedCWALauncher.exe"
+  },
+  {
+    "Name": "PackageInspector",
+    "Path": "C:\\WINDOWS\\system32\\PackageInspector.exe"
+  },
+  {
+    "Name": "pairtool",
+    "Path": "C:\\WINDOWS\\system32\\pairtool.exe"
+  },
+  {
+    "Name": "PasswordOnWakeSettingFlyout",
+    "Path": "C:\\WINDOWS\\system32\\PasswordOnWakeSettingFlyout.exe"
+  },
+  {
+    "Name": "PATHPING",
+    "Path": "C:\\WINDOWS\\system32\\PATHPING.EXE"
+  },
+  {
+    "Name": "pcalua",
+    "Path": "C:\\WINDOWS\\system32\\pcalua.exe"
+  },
+  {
+    "Name": "pcaui",
+    "Path": "C:\\WINDOWS\\system32\\pcaui.exe"
+  },
+  {
+    "Name": "pcwrun",
+    "Path": "C:\\WINDOWS\\system32\\pcwrun.exe"
+  },
+  {
+    "Name": "perfmon",
+    "Path": "C:\\WINDOWS\\system32\\perfmon.exe"
+  },
+  {
+    "Name": "phoneactivate",
+    "Path": "C:\\WINDOWS\\system32\\phoneactivate.exe"
+  },
+  {
+    "Name": "PickerHost",
+    "Path": "C:\\WINDOWS\\system32\\PickerHost.exe"
+  },
+  {
+    "Name": "PinEnrollmentBroker",
+    "Path": "C:\\WINDOWS\\system32\\PinEnrollmentBroker.exe"
+  },
+  {
+    "Name": "PING",
+    "Path": "C:\\WINDOWS\\system32\\PING.EXE"
+  },
+  {
+    "Name": "PkgMgr",
+    "Path": "C:\\WINDOWS\\system32\\PkgMgr.exe"
+  },
+  {
+    "Name": "PktMon",
+    "Path": "C:\\WINDOWS\\system32\\PktMon.exe"
+  },
+  {
+    "Name": "plasrv",
+    "Path": "C:\\WINDOWS\\system32\\plasrv.exe"
+  },
+  {
+    "Name": "PnPUnattend",
+    "Path": "C:\\WINDOWS\\system32\\PnPUnattend.exe"
+  },
+  {
+    "Name": "pnputil",
+    "Path": "C:\\WINDOWS\\system32\\pnputil.exe"
+  },
+  {
+    "Name": "poqexec",
+    "Path": "C:\\WINDOWS\\system32\\poqexec.exe"
+  },
+  {
+    "Name": "powercfg",
+    "Path": "C:\\WINDOWS\\system32\\powercfg.exe"
+  },
+  {
+    "Name": "PresentationHost",
+    "Path": "C:\\WINDOWS\\system32\\PresentationHost.exe"
+  },
+  {
+    "Name": "PresentationSettings",
+    "Path": "C:\\WINDOWS\\system32\\PresentationSettings.exe"
+  },
+  {
+    "Name": "prevhost",
+    "Path": "C:\\WINDOWS\\system32\\prevhost.exe"
+  },
+  {
+    "Name": "print",
+    "Path": "C:\\WINDOWS\\system32\\print.exe"
+  },
+  {
+    "Name": "PrintBrmUi",
+    "Path": "C:\\WINDOWS\\system32\\PrintBrmUi.exe"
+  },
+  {
+    "Name": "printfilterpipelinesvc",
+    "Path": "C:\\WINDOWS\\system32\\printfilterpipelinesvc.exe"
+  },
+  {
+    "Name": "PrintIsolationHost",
+    "Path": "C:\\WINDOWS\\system32\\PrintIsolationHost.exe"
+  },
+  {
+    "Name": "printui",
+    "Path": "C:\\WINDOWS\\system32\\printui.exe"
+  },
+  {
+    "Name": "proquota",
+    "Path": "C:\\WINDOWS\\system32\\proquota.exe"
+  },
+  {
+    "Name": "provlaunch",
+    "Path": "C:\\WINDOWS\\system32\\provlaunch.exe"
+  },
+  {
+    "Name": "provtool",
+    "Path": "C:\\WINDOWS\\system32\\provtool.exe"
+  },
+  {
+    "Name": "ProximityUxHost",
+    "Path": "C:\\WINDOWS\\system32\\ProximityUxHost.exe"
+  },
+  {
+    "Name": "prproc",
+    "Path": "C:\\WINDOWS\\system32\\prproc.exe"
+  },
+  {
+    "Name": "psr",
+    "Path": "C:\\WINDOWS\\system32\\psr.exe"
+  },
+  {
+    "Name": "pwlauncher",
+    "Path": "C:\\WINDOWS\\system32\\pwlauncher.exe"
+  },
+  {
+    "Name": "qappsrv",
+    "Path": "C:\\WINDOWS\\system32\\qappsrv.exe"
+  },
+  {
+    "Name": "qprocess",
+    "Path": "C:\\WINDOWS\\system32\\qprocess.exe"
+  },
+  {
+    "Name": "query",
+    "Path": "C:\\WINDOWS\\system32\\query.exe"
+  },
+  {
+    "Name": "quser",
+    "Path": "C:\\WINDOWS\\system32\\quser.exe"
+  },
+  {
+    "Name": "qwinsta",
+    "Path": "C:\\WINDOWS\\system32\\qwinsta.exe"
+  },
+  {
+    "Name": "rasautou",
+    "Path": "C:\\WINDOWS\\system32\\rasautou.exe"
+  },
+  {
+    "Name": "rasdial",
+    "Path": "C:\\WINDOWS\\system32\\rasdial.exe"
+  },
+  {
+    "Name": "raserver",
+    "Path": "C:\\WINDOWS\\system32\\raserver.exe"
+  },
+  {
+    "Name": "rasphone",
+    "Path": "C:\\WINDOWS\\system32\\rasphone.exe"
+  },
+  {
+    "Name": "rdpclip",
+    "Path": "C:\\WINDOWS\\system32\\rdpclip.exe"
+  },
+  {
+    "Name": "rdpinit",
+    "Path": "C:\\WINDOWS\\system32\\rdpinit.exe"
+  },
+  {
+    "Name": "rdpinput",
+    "Path": "C:\\WINDOWS\\system32\\rdpinput.exe"
+  },
+  {
+    "Name": "RdpSa",
+    "Path": "C:\\WINDOWS\\system32\\RdpSa.exe"
+  },
+  {
+    "Name": "RdpSaProxy",
+    "Path": "C:\\WINDOWS\\system32\\RdpSaProxy.exe"
+  },
+  {
+    "Name": "RdpSaUacHelper",
+    "Path": "C:\\WINDOWS\\system32\\RdpSaUacHelper.exe"
+  },
+  {
+    "Name": "rdpshell",
+    "Path": "C:\\WINDOWS\\system32\\rdpshell.exe"
+  },
+  {
+    "Name": "rdpsign",
+    "Path": "C:\\WINDOWS\\system32\\rdpsign.exe"
+  },
+  {
+    "Name": "rdrleakdiag",
+    "Path": "C:\\WINDOWS\\system32\\rdrleakdiag.exe"
+  },
+  {
+    "Name": "readCloudDataSettings",
+    "Path": "C:\\WINDOWS\\system32\\readCloudDataSettings.exe"
+  },
+  {
+    "Name": "ReAgentc",
+    "Path": "C:\\WINDOWS\\system32\\ReAgentc.exe"
+  },
+  {
+    "Name": "recdisc",
+    "Path": "C:\\WINDOWS\\system32\\recdisc.exe"
+  },
+  {
+    "Name": "recover",
+    "Path": "C:\\WINDOWS\\system32\\recover.exe"
+  },
+  {
+    "Name": "RecoveryDrive",
+    "Path": "C:\\WINDOWS\\system32\\RecoveryDrive.exe"
+  },
+  {
+    "Name": "ReFsDedupSvc",
+    "Path": "C:\\WINDOWS\\system32\\ReFsDedupSvc.exe"
+  },
+  {
+    "Name": "refsutil",
+    "Path": "C:\\WINDOWS\\system32\\refsutil.exe"
+  },
+  {
+    "Name": "reg",
+    "Path": "C:\\WINDOWS\\system32\\reg.exe"
+  },
+  {
+    "Name": "regedt32",
+    "Path": "C:\\WINDOWS\\system32\\regedt32.exe"
+  },
+  {
+    "Name": "regini",
+    "Path": "C:\\WINDOWS\\system32\\regini.exe"
+  },
+  {
+    "Name": "Register-CimProvider",
+    "Path": "C:\\WINDOWS\\system32\\Register-CimProvider.exe"
+  },
+  {
+    "Name": "regsvr32",
+    "Path": "C:\\WINDOWS\\system32\\regsvr32.exe"
+  },
+  {
+    "Name": "rekeywiz",
+    "Path": "C:\\WINDOWS\\system32\\rekeywiz.exe"
+  },
+  {
+    "Name": "relog",
+    "Path": "C:\\WINDOWS\\system32\\relog.exe"
+  },
+  {
+    "Name": "RelPost",
+    "Path": "C:\\WINDOWS\\system32\\RelPost.exe"
+  },
+  {
+    "Name": "RemoteAppLifetimeManager",
+    "Path": "C:\\WINDOWS\\system32\\RemoteAppLifetimeManager.exe"
+  },
+  {
+    "Name": "RemotePosWorker",
+    "Path": "C:\\WINDOWS\\system32\\RemotePosWorker.exe"
+  },
+  {
+    "Name": "repair-bde",
+    "Path": "C:\\WINDOWS\\system32\\repair-bde.exe"
+  },
+  {
+    "Name": "replace",
+    "Path": "C:\\WINDOWS\\system32\\replace.exe"
+  },
+  {
+    "Name": "reset",
+    "Path": "C:\\WINDOWS\\system32\\reset.exe"
+  },
+  {
+    "Name": "ResetEngine",
+    "Path": "C:\\WINDOWS\\system32\\ResetEngine.exe"
+  },
+  {
+    "Name": "resmon",
+    "Path": "C:\\WINDOWS\\system32\\resmon.exe"
+  },
+  {
+    "Name": "RMActivate",
+    "Path": "C:\\WINDOWS\\system32\\RMActivate.exe"
+  },
+  {
+    "Name": "RMActivate_isv",
+    "Path": "C:\\WINDOWS\\system32\\RMActivate_isv.exe"
+  },
+  {
+    "Name": "RMActivate_ssp",
+    "Path": "C:\\WINDOWS\\system32\\RMActivate_ssp.exe"
+  },
+  {
+    "Name": "RMActivate_ssp_isv",
+    "Path": "C:\\WINDOWS\\system32\\RMActivate_ssp_isv.exe"
+  },
+  {
+    "Name": "RmClient",
+    "Path": "C:\\WINDOWS\\system32\\RmClient.exe"
+  },
+  {
+    "Name": "rmttpmvscmgrsvr",
+    "Path": "C:\\WINDOWS\\system32\\rmttpmvscmgrsvr.exe"
+  },
+  {
+    "Name": "Robocopy",
+    "Path": "C:\\WINDOWS\\system32\\Robocopy.exe"
+  },
+  {
+    "Name": "ROUTE",
+    "Path": "C:\\WINDOWS\\system32\\ROUTE.EXE"
+  },
+  {
+    "Name": "RpcPing",
+    "Path": "C:\\WINDOWS\\system32\\RpcPing.exe"
+  },
+  {
+    "Name": "rrinstaller",
+    "Path": "C:\\WINDOWS\\system32\\rrinstaller.exe"
+  },
+  {
+    "Name": "rstrui",
+    "Path": "C:\\WINDOWS\\system32\\rstrui.exe"
+  },
+  {
+    "Name": "RtkAudUService64",
+    "Path": "C:\\WINDOWS\\system32\\RtkAudUService64.exe"
+  },
+  {
+    "Name": "runas",
+    "Path": "C:\\WINDOWS\\system32\\runas.exe"
+  },
+  {
+    "Name": "rundll32",
+    "Path": "C:\\WINDOWS\\system32\\rundll32.exe"
+  },
+  {
+    "Name": "runexehelper",
+    "Path": "C:\\WINDOWS\\system32\\runexehelper.exe"
+  },
+  {
+    "Name": "RunLegacyCPLElevated",
+    "Path": "C:\\WINDOWS\\system32\\RunLegacyCPLElevated.exe"
+  },
+  {
+    "Name": "runonce",
+    "Path": "C:\\WINDOWS\\system32\\runonce.exe"
+  },
+  {
+    "Name": "RuntimeBroker",
+    "Path": "C:\\WINDOWS\\system32\\RuntimeBroker.exe"
+  },
+  {
+    "Name": "rwinsta",
+    "Path": "C:\\WINDOWS\\system32\\rwinsta.exe"
+  },
+  {
+    "Name": "sc",
+    "Path": "C:\\WINDOWS\\system32\\sc.exe"
+  },
+  {
+    "Name": "schtasks",
+    "Path": "C:\\WINDOWS\\system32\\schtasks.exe"
+  },
+  {
+    "Name": "ScriptRunner",
+    "Path": "C:\\WINDOWS\\system32\\ScriptRunner.exe"
+  },
+  {
+    "Name": "sdbinst",
+    "Path": "C:\\WINDOWS\\system32\\sdbinst.exe"
+  },
+  {
+    "Name": "sdchange",
+    "Path": "C:\\WINDOWS\\system32\\sdchange.exe"
+  },
+  {
+    "Name": "sdclt",
+    "Path": "C:\\WINDOWS\\system32\\sdclt.exe"
+  },
+  {
+    "Name": "sdiagnhost",
+    "Path": "C:\\WINDOWS\\system32\\sdiagnhost.exe"
+  },
+  {
+    "Name": "SearchFilterHost",
+    "Path": "C:\\WINDOWS\\system32\\SearchFilterHost.exe"
+  },
+  {
+    "Name": "SearchIndexer",
+    "Path": "C:\\WINDOWS\\system32\\SearchIndexer.exe"
+  },
+  {
+    "Name": "SearchProtocolHost",
+    "Path": "C:\\WINDOWS\\system32\\SearchProtocolHost.exe"
+  },
+  {
+    "Name": "SECCNH64",
+    "Path": "C:\\WINDOWS\\system32\\SECCNH64.exe"
+  },
+  {
+    "Name": "SecEdit",
+    "Path": "C:\\WINDOWS\\system32\\SecEdit.exe"
+  },
+  {
+    "Name": "secinit",
+    "Path": "C:\\WINDOWS\\system32\\secinit.exe"
+  },
+  {
+    "Name": "SECOCL64",
+    "Path": "C:\\WINDOWS\\system32\\SECOCL64.exe"
+  },
+  {
+    "Name": "SECOMN64",
+    "Path": "C:\\WINDOWS\\system32\\SECOMN64.exe"
+  },
+  {
+    "Name": "securekernel",
+    "Path": "C:\\WINDOWS\\system32\\securekernel.exe"
+  },
+  {
+    "Name": "SecurityHealthHost",
+    "Path": "C:\\WINDOWS\\system32\\SecurityHealthHost.exe"
+  },
+  {
+    "Name": "SecurityHealthService",
+    "Path": "C:\\WINDOWS\\system32\\SecurityHealthService.exe"
+  },
+  {
+    "Name": "SecurityHealthSystray",
+    "Path": "C:\\WINDOWS\\system32\\SecurityHealthSystray.exe"
+  },
+  {
+    "Name": "SensorDataService",
+    "Path": "C:\\WINDOWS\\system32\\SensorDataService.exe"
+  },
+  {
+    "Name": "SensorRuntimeBroker",
+    "Path": "C:\\WINDOWS\\system32\\SensorRuntimeBroker.exe"
+  },
+  {
+    "Name": "services",
+    "Path": "C:\\WINDOWS\\system32\\services.exe"
+  },
+  {
+    "Name": "sessionmsg",
+    "Path": "C:\\WINDOWS\\system32\\sessionmsg.exe"
+  },
+  {
+    "Name": "sethc",
+    "Path": "C:\\WINDOWS\\system32\\sethc.exe"
+  },
+  {
+    "Name": "setspn",
+    "Path": "C:\\WINDOWS\\system32\\setspn.exe"
+  },
+  {
+    "Name": "setupcl",
+    "Path": "C:\\WINDOWS\\system32\\setupcl.exe"
+  },
+  {
+    "Name": "setupugc",
+    "Path": "C:\\WINDOWS\\system32\\setupugc.exe"
+  },
+  {
+    "Name": "setx",
+    "Path": "C:\\WINDOWS\\system32\\setx.exe"
+  },
+  {
+    "Name": "sfc",
+    "Path": "C:\\WINDOWS\\system32\\sfc.exe"
+  },
+  {
+    "Name": "ShellAppRuntime",
+    "Path": "C:\\WINDOWS\\system32\\ShellAppRuntime.exe"
+  },
+  {
+    "Name": "ShellHost",
+    "Path": "C:\\WINDOWS\\system32\\ShellHost.exe"
+  },
+  {
+    "Name": "shrpubw",
+    "Path": "C:\\WINDOWS\\system32\\shrpubw.exe"
+  },
+  {
+    "Name": "shutdown",
+    "Path": "C:\\WINDOWS\\system32\\shutdown.exe"
+  },
+  {
+    "Name": "sigverif",
+    "Path": "C:\\WINDOWS\\system32\\sigverif.exe"
+  },
+  {
+    "Name": "SIHClient",
+    "Path": "C:\\WINDOWS\\system32\\SIHClient.exe"
+  },
+  {
+    "Name": "sihost",
+    "Path": "C:\\WINDOWS\\system32\\sihost.exe"
+  },
+  {
+    "Name": "SlideToShutDown",
+    "Path": "C:\\WINDOWS\\system32\\SlideToShutDown.exe"
+  },
+  {
+    "Name": "slui",
+    "Path": "C:\\WINDOWS\\system32\\slui.exe"
+  },
+  {
+    "Name": "smartscreen",
+    "Path": "C:\\WINDOWS\\system32\\smartscreen.exe"
+  },
+  {
+    "Name": "smss",
+    "Path": "C:\\WINDOWS\\system32\\smss.exe"
+  },
+  {
+    "Name": "SndVol",
+    "Path": "C:\\WINDOWS\\system32\\SndVol.exe"
+  },
+  {
+    "Name": "snmptrap",
+    "Path": "C:\\WINDOWS\\system32\\snmptrap.exe"
+  },
+  {
+    "Name": "sort",
+    "Path": "C:\\WINDOWS\\system32\\sort.exe"
+  },
+  {
+    "Name": "SpaceAgent",
+    "Path": "C:\\WINDOWS\\system32\\SpaceAgent.exe"
+  },
+  {
+    "Name": "spaceman",
+    "Path": "C:\\WINDOWS\\system32\\spaceman.exe"
+  },
+  {
+    "Name": "spaceutil",
+    "Path": "C:\\WINDOWS\\system32\\spaceutil.exe"
+  },
+  {
+    "Name": "SpatialAudioLicenseSrv",
+    "Path": "C:\\WINDOWS\\system32\\SpatialAudioLicenseSrv.exe"
+  },
+  {
+    "Name": "spoolsv",
+    "Path": "C:\\WINDOWS\\system32\\spoolsv.exe"
+  },
+  {
+    "Name": "spoolsvworker",
+    "Path": "C:\\WINDOWS\\system32\\spoolsvworker.exe"
+  },
+  {
+    "Name": "SppExtComObj",
+    "Path": "C:\\WINDOWS\\system32\\SppExtComObj.Exe"
+  },
+  {
+    "Name": "sppsvc",
+    "Path": "C:\\WINDOWS\\system32\\sppsvc.exe"
+  },
+  {
+    "Name": "srdelayed",
+    "Path": "C:\\WINDOWS\\system32\\srdelayed.exe"
+  },
+  {
+    "Name": "SrTasks",
+    "Path": "C:\\WINDOWS\\system32\\SrTasks.exe"
+  },
+  {
+    "Name": "stordiag",
+    "Path": "C:\\WINDOWS\\system32\\stordiag.exe"
+  },
+  {
+    "Name": "subst",
+    "Path": "C:\\WINDOWS\\system32\\subst.exe"
+  },
+  {
+    "Name": "sudo",
+    "Path": "C:\\WINDOWS\\system32\\sudo.exe"
+  },
+  {
+    "Name": "svchost",
+    "Path": "C:\\WINDOWS\\system32\\svchost.exe"
+  },
+  {
+    "Name": "sxstrace",
+    "Path": "C:\\WINDOWS\\system32\\sxstrace.exe"
+  },
+  {
+    "Name": "SyncAppvPublishingServer",
+    "Path": "C:\\WINDOWS\\system32\\SyncAppvPublishingServer.exe"
+  },
+  {
+    "Name": "SyncHost",
+    "Path": "C:\\WINDOWS\\system32\\SyncHost.exe"
+  },
+  {
+    "Name": "SynTPEnh",
+    "Path": "C:\\WINDOWS\\system32\\SynTPEnh.exe"
+  },
+  {
+    "Name": "SynTPEnhService",
+    "Path": "C:\\WINDOWS\\system32\\SynTPEnhService.exe"
+  },
+  {
+    "Name": "SysResetErr",
+    "Path": "C:\\WINDOWS\\system32\\SysResetErr.exe"
+  },
+  {
+    "Name": "systeminfo",
+    "Path": "C:\\WINDOWS\\system32\\systeminfo.exe"
+  },
+  {
+    "Name": "SystemPropertiesAdvanced",
+    "Path": "C:\\WINDOWS\\system32\\SystemPropertiesAdvanced.exe"
+  },
+  {
+    "Name": "SystemPropertiesComputerName",
+    "Path": "C:\\WINDOWS\\system32\\SystemPropertiesComputerName.exe"
+  },
+  {
+    "Name": "SystemPropertiesDataExecutionPrevention",
+    "Path": "C:\\WINDOWS\\system32\\SystemPropertiesDataExecutionPrevention.exe"
+  },
+  {
+    "Name": "SystemPropertiesHardware",
+    "Path": "C:\\WINDOWS\\system32\\SystemPropertiesHardware.exe"
+  },
+  {
+    "Name": "SystemPropertiesPerformance",
+    "Path": "C:\\WINDOWS\\system32\\SystemPropertiesPerformance.exe"
+  },
+  {
+    "Name": "SystemPropertiesProtection",
+    "Path": "C:\\WINDOWS\\system32\\SystemPropertiesProtection.exe"
+  },
+  {
+    "Name": "SystemPropertiesRemote",
+    "Path": "C:\\WINDOWS\\system32\\SystemPropertiesRemote.exe"
+  },
+  {
+    "Name": "SystemSettingsAdminFlows",
+    "Path": "C:\\WINDOWS\\system32\\SystemSettingsAdminFlows.exe"
+  },
+  {
+    "Name": "SystemSettingsBroker",
+    "Path": "C:\\WINDOWS\\system32\\SystemSettingsBroker.exe"
+  },
+  {
+    "Name": "SystemSettingsRemoveDevice",
+    "Path": "C:\\WINDOWS\\system32\\SystemSettingsRemoveDevice.exe"
+  },
+  {
+    "Name": "SystemUWPLauncher",
+    "Path": "C:\\WINDOWS\\system32\\SystemUWPLauncher.exe"
+  },
+  {
+    "Name": "systray",
+    "Path": "C:\\WINDOWS\\system32\\systray.exe"
+  },
+  {
+    "Name": "tabcal",
+    "Path": "C:\\WINDOWS\\system32\\tabcal.exe"
+  },
+  {
+    "Name": "takeown",
+    "Path": "C:\\WINDOWS\\system32\\takeown.exe"
+  },
+  {
+    "Name": "TapiUnattend",
+    "Path": "C:\\WINDOWS\\system32\\TapiUnattend.exe"
+  },
+  {
+    "Name": "tar",
+    "Path": "C:\\WINDOWS\\system32\\tar.exe"
+  },
+  {
+    "Name": "taskhostw",
+    "Path": "C:\\WINDOWS\\system32\\taskhostw.exe"
+  },
+  {
+    "Name": "taskkill",
+    "Path": "C:\\WINDOWS\\system32\\taskkill.exe"
+  },
+  {
+    "Name": "tasklist",
+    "Path": "C:\\WINDOWS\\system32\\tasklist.exe"
+  },
+  {
+    "Name": "Taskmgr",
+    "Path": "C:\\WINDOWS\\system32\\Taskmgr.exe"
+  },
+  {
+    "Name": "tcblaunch",
+    "Path": "C:\\WINDOWS\\system32\\tcblaunch.exe"
+  },
+  {
+    "Name": "tcmsetup",
+    "Path": "C:\\WINDOWS\\system32\\tcmsetup.exe"
+  },
+  {
+    "Name": "TCPSVCS",
+    "Path": "C:\\WINDOWS\\system32\\TCPSVCS.EXE"
+  },
+  {
+    "Name": "ThumbnailExtractionHost",
+    "Path": "C:\\WINDOWS\\system32\\ThumbnailExtractionHost.exe"
+  },
+  {
+    "Name": "TieringEngineService",
+    "Path": "C:\\WINDOWS\\system32\\TieringEngineService.exe"
+  },
+  {
+    "Name": "timeout",
+    "Path": "C:\\WINDOWS\\system32\\timeout.exe"
+  },
+  {
+    "Name": "TokenBrokerCookies",
+    "Path": "C:\\WINDOWS\\system32\\TokenBrokerCookies.exe"
+  },
+  {
+    "Name": "TpmInit",
+    "Path": "C:\\WINDOWS\\system32\\TpmInit.exe"
+  },
+  {
+    "Name": "TpmTool",
+    "Path": "C:\\WINDOWS\\system32\\TpmTool.exe"
+  },
+  {
+    "Name": "tpmvscmgr",
+    "Path": "C:\\WINDOWS\\system32\\tpmvscmgr.exe"
+  },
+  {
+    "Name": "tpmvscmgrsvr",
+    "Path": "C:\\WINDOWS\\system32\\tpmvscmgrsvr.exe"
+  },
+  {
+    "Name": "tracerpt",
+    "Path": "C:\\WINDOWS\\system32\\tracerpt.exe"
+  },
+  {
+    "Name": "TRACERT",
+    "Path": "C:\\WINDOWS\\system32\\TRACERT.EXE"
+  },
+  {
+    "Name": "tscon",
+    "Path": "C:\\WINDOWS\\system32\\tscon.exe"
+  },
+  {
+    "Name": "tsdiscon",
+    "Path": "C:\\WINDOWS\\system32\\tsdiscon.exe"
+  },
+  {
+    "Name": "tskill",
+    "Path": "C:\\WINDOWS\\system32\\tskill.exe"
+  },
+  {
+    "Name": "TSTheme",
+    "Path": "C:\\WINDOWS\\system32\\TSTheme.exe"
+  },
+  {
+    "Name": "TSWbPrxy",
+    "Path": "C:\\WINDOWS\\system32\\TSWbPrxy.exe"
+  },
+  {
+    "Name": "TsWpfWrp",
+    "Path": "C:\\WINDOWS\\system32\\TsWpfWrp.exe"
+  },
+  {
+    "Name": "ttdinject",
+    "Path": "C:\\WINDOWS\\system32\\ttdinject.exe"
+  },
+  {
+    "Name": "tttracer",
+    "Path": "C:\\WINDOWS\\system32\\tttracer.exe"
+  },
+  {
+    "Name": "typeperf",
+    "Path": "C:\\WINDOWS\\system32\\typeperf.exe"
+  },
+  {
+    "Name": "tzsync",
+    "Path": "C:\\WINDOWS\\system32\\tzsync.exe"
+  },
+  {
+    "Name": "tzutil",
+    "Path": "C:\\WINDOWS\\system32\\tzutil.exe"
+  },
+  {
+    "Name": "UCConfigTask",
+    "Path": "C:\\WINDOWS\\system32\\UCConfigTask.exe"
+  },
+  {
+    "Name": "UCPDMgr",
+    "Path": "C:\\WINDOWS\\system32\\UCPDMgr.exe"
+  },
+  {
+    "Name": "ucsvc",
+    "Path": "C:\\WINDOWS\\system32\\ucsvc.exe"
+  },
+  {
+    "Name": "UevAgentPolicyGenerator",
+    "Path": "C:\\WINDOWS\\system32\\UevAgentPolicyGenerator.exe"
+  },
+  {
+    "Name": "UevAppMonitor",
+    "Path": "C:\\WINDOWS\\system32\\UevAppMonitor.exe"
+  },
+  {
+    "Name": "UevTemplateBaselineGenerator",
+    "Path": "C:\\WINDOWS\\system32\\UevTemplateBaselineGenerator.exe"
+  },
+  {
+    "Name": "UevTemplateConfigItemGenerator",
+    "Path": "C:\\WINDOWS\\system32\\UevTemplateConfigItemGenerator.exe"
+  },
+  {
+    "Name": "UIEOrchestrator",
+    "Path": "C:\\WINDOWS\\system32\\UIEOrchestrator.exe"
+  },
+  {
+    "Name": "UIMgrBroker",
+    "Path": "C:\\WINDOWS\\system32\\UIMgrBroker.exe"
+  },
+  {
+    "Name": "unlodctr",
+    "Path": "C:\\WINDOWS\\system32\\unlodctr.exe"
+  },
+  {
+    "Name": "unregmp2",
+    "Path": "C:\\WINDOWS\\system32\\unregmp2.exe"
+  },
+  {
+    "Name": "upfc",
+    "Path": "C:\\WINDOWS\\system32\\upfc.exe"
+  },
+  {
+    "Name": "UpgradeResultsUI",
+    "Path": "C:\\WINDOWS\\system32\\UpgradeResultsUI.exe"
+  },
+  {
+    "Name": "upnpcont",
+    "Path": "C:\\WINDOWS\\system32\\upnpcont.exe"
+  },
+  {
+    "Name": "UPPrinterInstaller",
+    "Path": "C:\\WINDOWS\\system32\\UPPrinterInstaller.exe"
+  },
+  {
+    "Name": "UserAccountBroker",
+    "Path": "C:\\WINDOWS\\system32\\UserAccountBroker.exe"
+  },
+  {
+    "Name": "UserAccountControlSettings",
+    "Path": "C:\\WINDOWS\\system32\\UserAccountControlSettings.exe"
+  },
+  {
+    "Name": "UserDataSource",
+    "Path": "C:\\WINDOWS\\system32\\UserDataSource.exe"
+  },
+  {
+    "Name": "userinit",
+    "Path": "C:\\WINDOWS\\system32\\userinit.exe"
+  },
+  {
+    "Name": "UsoClient",
+    "Path": "C:\\WINDOWS\\system32\\UsoClient.exe"
+  },
+  {
+    "Name": "UtcDecoderHost",
+    "Path": "C:\\WINDOWS\\system32\\UtcDecoderHost.exe"
+  },
+  {
+    "Name": "Utilman",
+    "Path": "C:\\WINDOWS\\system32\\Utilman.exe"
+  },
+  {
+    "Name": "VaultCmd",
+    "Path": "C:\\WINDOWS\\system32\\VaultCmd.exe"
+  },
+  {
+    "Name": "vds",
+    "Path": "C:\\WINDOWS\\system32\\vds.exe"
+  },
+  {
+    "Name": "vdsldr",
+    "Path": "C:\\WINDOWS\\system32\\vdsldr.exe"
+  },
+  {
+    "Name": "verclsid",
+    "Path": "C:\\WINDOWS\\system32\\verclsid.exe"
+  },
+  {
+    "Name": "verifier",
+    "Path": "C:\\WINDOWS\\system32\\verifier.exe"
+  },
+  {
+    "Name": "verifiergui",
+    "Path": "C:\\WINDOWS\\system32\\verifiergui.exe"
+  },
+  {
+    "Name": "vfpctrl",
+    "Path": "C:\\WINDOWS\\system32\\vfpctrl.exe"
+  },
+  {
+    "Name": "vmcompute",
+    "Path": "C:\\WINDOWS\\system32\\vmcompute.exe"
+  },
+  {
+    "Name": "vmwp",
+    "Path": "C:\\WINDOWS\\system32\\vmwp.exe"
+  },
+  {
+    "Name": "VoiceAccess",
+    "Path": "C:\\WINDOWS\\system32\\VoiceAccess.exe"
+  },
+  {
+    "Name": "VsGraphicsDesktopEngine",
+    "Path": "C:\\WINDOWS\\system32\\VsGraphicsDesktopEngine.exe"
+  },
+  {
+    "Name": "VsGraphicsRemoteEngine",
+    "Path": "C:\\WINDOWS\\system32\\VsGraphicsRemoteEngine.exe"
+  },
+  {
+    "Name": "vsjitdebugger",
+    "Path": "C:\\WINDOWS\\system32\\vsjitdebugger.exe"
+  },
+  {
+    "Name": "vssadmin",
+    "Path": "C:\\WINDOWS\\system32\\vssadmin.exe"
+  },
+  {
+    "Name": "VSSVC",
+    "Path": "C:\\WINDOWS\\system32\\VSSVC.exe"
+  },
+  {
+    "Name": "vulkaninfo-1-999-0-0-0",
+    "Path": "C:\\WINDOWS\\system32\\vulkaninfo-1-999-0-0-0.exe"
+  },
+  {
+    "Name": "vulkaninfo",
+    "Path": "C:\\WINDOWS\\system32\\vulkaninfo.exe"
+  },
+  {
+    "Name": "w32tm",
+    "Path": "C:\\WINDOWS\\system32\\w32tm.exe"
+  },
+  {
+    "Name": "waitfor",
+    "Path": "C:\\WINDOWS\\system32\\waitfor.exe"
+  },
+  {
+    "Name": "WallpaperHost",
+    "Path": "C:\\WINDOWS\\system32\\WallpaperHost.exe"
+  },
+  {
+    "Name": "wbadmin",
+    "Path": "C:\\WINDOWS\\system32\\wbadmin.exe"
+  },
+  {
+    "Name": "wbengine",
+    "Path": "C:\\WINDOWS\\system32\\wbengine.exe"
+  },
+  {
+    "Name": "wecutil",
+    "Path": "C:\\WINDOWS\\system32\\wecutil.exe"
+  },
+  {
+    "Name": "WerFault",
+    "Path": "C:\\WINDOWS\\system32\\WerFault.exe"
+  },
+  {
+    "Name": "WerFaultSecure",
+    "Path": "C:\\WINDOWS\\system32\\WerFaultSecure.exe"
+  },
+  {
+    "Name": "wermgr",
+    "Path": "C:\\WINDOWS\\system32\\wermgr.exe"
+  },
+  {
+    "Name": "wevtutil",
+    "Path": "C:\\WINDOWS\\system32\\wevtutil.exe"
+  },
+  {
+    "Name": "wextract",
+    "Path": "C:\\WINDOWS\\system32\\wextract.exe"
+  },
+  {
+    "Name": "WFS",
+    "Path": "C:\\WINDOWS\\system32\\WFS.exe"
+  },
+  {
+    "Name": "where",
+    "Path": "C:\\WINDOWS\\system32\\where.exe"
+  },
+  {
+    "Name": "whoami",
+    "Path": "C:\\WINDOWS\\system32\\whoami.exe"
+  },
+  {
+    "Name": "wiaacmgr",
+    "Path": "C:\\WINDOWS\\system32\\wiaacmgr.exe"
+  },
+  {
+    "Name": "wiawow64",
+    "Path": "C:\\WINDOWS\\system32\\wiawow64.exe"
+  },
+  {
+    "Name": "wifitask",
+    "Path": "C:\\WINDOWS\\system32\\wifitask.exe"
+  },
+  {
+    "Name": "wimserv",
+    "Path": "C:\\WINDOWS\\system32\\wimserv.exe"
+  },
+  {
+    "Name": "WinBioDataModelOOBE",
+    "Path": "C:\\WINDOWS\\system32\\WinBioDataModelOOBE.exe"
+  },
+  {
+    "Name": "Windows.Media.BackgroundPlayback",
+    "Path": "C:\\WINDOWS\\system32\\Windows.Media.BackgroundPlayback.exe"
+  },
+  {
+    "Name": "Windows.WARP.JITService",
+    "Path": "C:\\WINDOWS\\system32\\Windows.WARP.JITService.exe"
+  },
+  {
+    "Name": "WindowsActionDialog",
+    "Path": "C:\\WINDOWS\\system32\\WindowsActionDialog.exe"
+  },
+  {
+    "Name": "WindowsUpdateElevatedInstaller",
+    "Path": "C:\\WINDOWS\\system32\\WindowsUpdateElevatedInstaller.exe"
+  },
+  {
+    "Name": "wininit",
+    "Path": "C:\\WINDOWS\\system32\\wininit.exe"
+  },
+  {
+    "Name": "winload",
+    "Path": "C:\\WINDOWS\\system32\\winload.exe"
+  },
+  {
+    "Name": "winlogon",
+    "Path": "C:\\WINDOWS\\system32\\winlogon.exe"
+  },
+  {
+    "Name": "winresume",
+    "Path": "C:\\WINDOWS\\system32\\winresume.exe"
+  },
+  {
+    "Name": "winrs",
+    "Path": "C:\\WINDOWS\\system32\\winrs.exe"
+  },
+  {
+    "Name": "winrshost",
+    "Path": "C:\\WINDOWS\\system32\\winrshost.exe"
+  },
+  {
+    "Name": "WinRTNetMUAHostServer",
+    "Path": "C:\\WINDOWS\\system32\\WinRTNetMUAHostServer.exe"
+  },
+  {
+    "Name": "WinSAT",
+    "Path": "C:\\WINDOWS\\system32\\WinSAT.exe"
+  },
+  {
+    "Name": "winver",
+    "Path": "C:\\WINDOWS\\system32\\winver.exe"
+  },
+  {
+    "Name": "wkspbroker",
+    "Path": "C:\\WINDOWS\\system32\\wkspbroker.exe"
+  },
+  {
+    "Name": "wksprt",
+    "Path": "C:\\WINDOWS\\system32\\wksprt.exe"
+  },
+  {
+    "Name": "wlanext",
+    "Path": "C:\\WINDOWS\\system32\\wlanext.exe"
+  },
+  {
+    "Name": "WlanHelper",
+    "Path": "C:\\WINDOWS\\system32\\WlanHelper.exe"
+  },
+  {
+    "Name": "wlrmdr",
+    "Path": "C:\\WINDOWS\\system32\\wlrmdr.exe"
+  },
+  {
+    "Name": "WMPDMC",
+    "Path": "C:\\WINDOWS\\system32\\WMPDMC.exe"
+  },
+  {
+    "Name": "WorkFolders",
+    "Path": "C:\\WINDOWS\\system32\\WorkFolders.exe"
+  },
+  {
+    "Name": "wowreg32",
+    "Path": "C:\\WINDOWS\\system32\\wowreg32.exe"
+  },
+  {
+    "Name": "WpcMon",
+    "Path": "C:\\WINDOWS\\system32\\WpcMon.exe"
+  },
+  {
+    "Name": "WpcTok",
+    "Path": "C:\\WINDOWS\\system32\\WpcTok.exe"
+  },
+  {
+    "Name": "WPDShextAutoplay",
+    "Path": "C:\\WINDOWS\\system32\\WPDShextAutoplay.exe"
+  },
+  {
+    "Name": "wpnpinst",
+    "Path": "C:\\WINDOWS\\system32\\wpnpinst.exe"
+  },
+  {
+    "Name": "wpr",
+    "Path": "C:\\WINDOWS\\system32\\wpr.exe"
+  },
+  {
+    "Name": "wscadminui",
+    "Path": "C:\\WINDOWS\\system32\\wscadminui.exe"
+  },
+  {
+    "Name": "WSCollect",
+    "Path": "C:\\WINDOWS\\system32\\WSCollect.exe"
+  },
+  {
+    "Name": "wscript",
+    "Path": "C:\\WINDOWS\\system32\\wscript.exe"
+  },
+  {
+    "Name": "wsl",
+    "Path": "C:\\WINDOWS\\system32\\wsl.exe"
+  },
+  {
+    "Name": "wslconfig",
+    "Path": "C:\\WINDOWS\\system32\\wslconfig.exe"
+  },
+  {
+    "Name": "WSManHTTPConfig",
+    "Path": "C:\\WINDOWS\\system32\\WSManHTTPConfig.exe"
+  },
+  {
+    "Name": "wsmprovhost",
+    "Path": "C:\\WINDOWS\\system32\\wsmprovhost.exe"
+  },
+  {
+    "Name": "wsqmcons",
+    "Path": "C:\\WINDOWS\\system32\\wsqmcons.exe"
+  },
+  {
+    "Name": "WSReset",
+    "Path": "C:\\WINDOWS\\system32\\WSReset.exe"
+  },
+  {
+    "Name": "wuapihost",
+    "Path": "C:\\WINDOWS\\system32\\wuapihost.exe"
+  },
+  {
+    "Name": "wuauclt",
+    "Path": "C:\\WINDOWS\\system32\\wuauclt.exe"
+  },
+  {
+    "Name": "WUDFCompanionHost",
+    "Path": "C:\\WINDOWS\\system32\\WUDFCompanionHost.exe"
+  },
+  {
+    "Name": "WUDFHost",
+    "Path": "C:\\WINDOWS\\system32\\WUDFHost.exe"
+  },
+  {
+    "Name": "wusa",
+    "Path": "C:\\WINDOWS\\system32\\wusa.exe"
+  },
+  {
+    "Name": "WWAHost",
+    "Path": "C:\\WINDOWS\\system32\\WWAHost.exe"
+  },
+  {
+    "Name": "XblGameSaveTask",
+    "Path": "C:\\WINDOWS\\system32\\XblGameSaveTask.exe"
+  },
+  {
+    "Name": "xcopy",
+    "Path": "C:\\WINDOWS\\system32\\xcopy.exe"
+  },
+  {
+    "Name": "xgamecontrol",
+    "Path": "C:\\WINDOWS\\system32\\xgamecontrol.exe"
+  },
+  {
+    "Name": "xgamehelper",
+    "Path": "C:\\WINDOWS\\system32\\xgamehelper.exe"
+  },
+  {
+    "Name": "xwizard",
+    "Path": "C:\\WINDOWS\\system32\\xwizard.exe"
+  },
+  {
+    "Name": "bfsvc",
+    "Path": "C:\\WINDOWS\\bfsvc.exe"
+  },
+  {
+    "Name": "explorer",
+    "Path": "C:\\WINDOWS\\explorer.exe"
+  },
+  {
+    "Name": "HelpPane",
+    "Path": "C:\\WINDOWS\\HelpPane.exe"
+  },
+  {
+    "Name": "hh",
+    "Path": "C:\\WINDOWS\\hh.exe"
+  },
+  {
+    "Name": "notepad",
+    "Path": "C:\\WINDOWS\\notepad.exe"
+  },
+  {
+    "Name": "py",
+    "Path": "C:\\WINDOWS\\py.exe"
+  },
+  {
+    "Name": "pyw",
+    "Path": "C:\\WINDOWS\\pyw.exe"
+  },
+  {
+    "Name": "regedit",
+    "Path": "C:\\WINDOWS\\regedit.exe"
+  },
+  {
+    "Name": "RtkBtManServ",
+    "Path": "C:\\WINDOWS\\RtkBtManServ.exe"
+  },
+  {
+    "Name": "splwow64",
+    "Path": "C:\\WINDOWS\\splwow64.exe"
+  },
+  {
+    "Name": "winhlp32",
+    "Path": "C:\\WINDOWS\\winhlp32.exe"
+  },
+  {
+    "Name": "mofcomp",
+    "Path": "C:\\WINDOWS\\System32\\Wbem\\mofcomp.exe"
+  },
+  {
+    "Name": "scrcons",
+    "Path": "C:\\WINDOWS\\System32\\Wbem\\scrcons.exe"
+  },
+  {
+    "Name": "unsecapp",
+    "Path": "C:\\WINDOWS\\System32\\Wbem\\unsecapp.exe"
+  },
+  {
+    "Name": "wbemtest",
+    "Path": "C:\\WINDOWS\\System32\\Wbem\\wbemtest.exe"
+  },
+  {
+    "Name": "WinMgmt",
+    "Path": "C:\\WINDOWS\\System32\\Wbem\\WinMgmt.exe"
+  },
+  {
+    "Name": "WMIADAP",
+    "Path": "C:\\WINDOWS\\System32\\Wbem\\WMIADAP.exe"
+  },
+  {
+    "Name": "WmiApSrv",
+    "Path": "C:\\WINDOWS\\System32\\Wbem\\WmiApSrv.exe"
+  },
+  {
+    "Name": "WMIC",
+    "Path": "C:\\WINDOWS\\System32\\Wbem\\WMIC.exe"
+  },
+  {
+    "Name": "WmiPrvSE",
+    "Path": "C:\\WINDOWS\\System32\\Wbem\\WmiPrvSE.exe"
+  },
+  {
+    "Name": "powershell",
+    "Path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+  },
+  {
+    "Name": "powershell_ise",
+    "Path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell_ise.exe"
+  },
+  {
+    "Name": "scp",
+    "Path": "C:\\WINDOWS\\System32\\OpenSSH\\scp.exe"
+  },
+  {
+    "Name": "sftp",
+    "Path": "C:\\WINDOWS\\System32\\OpenSSH\\sftp.exe"
+  },
+  {
+    "Name": "ssh-add",
+    "Path": "C:\\WINDOWS\\System32\\OpenSSH\\ssh-add.exe"
+  },
+  {
+    "Name": "ssh-agent",
+    "Path": "C:\\WINDOWS\\System32\\OpenSSH\\ssh-agent.exe"
+  },
+  {
+    "Name": "ssh-keygen",
+    "Path": "C:\\WINDOWS\\System32\\OpenSSH\\ssh-keygen.exe"
+  },
+  {
+    "Name": "ssh-keyscan",
+    "Path": "C:\\WINDOWS\\System32\\OpenSSH\\ssh-keyscan.exe"
+  },
+  {
+    "Name": "ssh-pkcs11-helper",
+    "Path": "C:\\WINDOWS\\System32\\OpenSSH\\ssh-pkcs11-helper.exe"
+  },
+  {
+    "Name": "ssh-sk-helper",
+    "Path": "C:\\WINDOWS\\System32\\OpenSSH\\ssh-sk-helper.exe"
+  },
+  {
+    "Name": "ssh",
+    "Path": "C:\\WINDOWS\\System32\\OpenSSH\\ssh.exe"
+  },
+  {
+    "Name": "SQLPS",
+    "Path": "C:\\Program Files (x86)\\Microsoft SQL Server\\100\\Tools\\Binn\\SQLPS.exe"
+  },
+  {
+    "Name": "bcp",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\bcp.exe"
+  },
+  {
+    "Name": "OSQL",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\OSQL.EXE"
+  },
+  {
+    "Name": "SQLCMD",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\SQLCMD.EXE"
+  },
+  {
+    "Name": "SQLdiag",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\SQLdiag.exe"
+  },
+  {
+    "Name": "SqlLogShip",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\Tools\\Binn\\SqlLogShip.exe"
+  },
+  {
+    "Name": "DTExec",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\DTExec.exe"
+  },
+  {
+    "Name": "dtshost",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\dtshost.exe"
+  },
+  {
+    "Name": "DTSWizard",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\DTSWizard.exe"
+  },
+  {
+    "Name": "dtutil",
+    "Path": "C:\\Program Files\\Microsoft SQL Server\\100\\DTS\\Binn\\dtutil.exe"
+  },
+  {
+    "Name": "node",
+    "Path": "C:\\Program Files\\nodejs\\node.exe"
+  },
+  {
+    "Name": "choco",
+    "Path": "C:\\ProgramData\\chocolatey\\bin\\choco.exe"
+  },
+  {
+    "Name": "python3.11",
+    "Path": "C:\\ProgramData\\chocolatey\\bin\\python3.11.exe"
+  },
+  {
+    "Name": "git-gui",
+    "Path": "C:\\Program Files\\Git\\cmd\\git-gui.exe"
+  },
+  {
+    "Name": "git-lfs",
+    "Path": "C:\\Program Files\\Git\\cmd\\git-lfs.exe"
+  },
+  {
+    "Name": "git-receive-pack",
+    "Path": "C:\\Program Files\\Git\\cmd\\git-receive-pack.exe"
+  },
+  {
+    "Name": "git-upload-pack",
+    "Path": "C:\\Program Files\\Git\\cmd\\git-upload-pack.exe"
+  },
+  {
+    "Name": "git",
+    "Path": "C:\\Program Files\\Git\\cmd\\git.exe"
+  },
+  {
+    "Name": "gitk",
+    "Path": "C:\\Program Files\\Git\\cmd\\gitk.exe"
+  },
+  {
+    "Name": "scalar",
+    "Path": "C:\\Program Files\\Git\\cmd\\scalar.exe"
+  },
+  {
+    "Name": "sqldiff",
+    "Path": "C:\\sqllite\\sqldiff.exe"
+  },
+  {
+    "Name": "sqlite3",
+    "Path": "C:\\sqllite\\sqlite3.exe"
+  },
+  {
+    "Name": "sqlite3_analyzer",
+    "Path": "C:\\sqllite\\sqlite3_analyzer.exe"
+  },
+  {
+    "Name": "symcachegen",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\symcachegen.exe"
+  },
+  {
+    "Name": "wpa",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\wpa.exe"
+  },
+  {
+    "Name": "wpaexporter",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\wpaexporter.exe"
+  },
+  {
+    "Name": "wpr",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\wpr.exe"
+  },
+  {
+    "Name": "WPRUI",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\WPRUI.exe"
+  },
+  {
+    "Name": "xbootmgr",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\xbootmgr.exe"
+  },
+  {
+    "Name": "xbootmgrsleep",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\xbootmgrsleep.exe"
+  },
+  {
+    "Name": "xperf",
+    "Path": "C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\xperf.exe"
+  },
+  {
+    "Name": "compose-bridge",
+    "Path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\compose-bridge.exe"
+  },
+  {
+    "Name": "docker-compose",
+    "Path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker-compose.exe"
+  },
+  {
+    "Name": "docker-credential-desktop",
+    "Path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker-credential-desktop.exe"
+  },
+  {
+    "Name": "docker-credential-ecr-login",
+    "Path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker-credential-ecr-login.exe"
+  },
+  {
+    "Name": "docker-credential-wincred",
+    "Path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker-credential-wincred.exe"
+  },
+  {
+    "Name": "docker",
+    "Path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\docker.exe"
+  },
+  {
+    "Name": "extension-admin",
+    "Path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\extension-admin.exe"
+  },
+  {
+    "Name": "hub-tool",
+    "Path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\hub-tool.exe"
+  },
+  {
+    "Name": "kubectl",
+    "Path": "C:\\Program Files\\Docker\\Docker\\resources\\bin\\kubectl.exe"
+  },
+  {
+    "Name": "accelerate-config",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\accelerate-config.exe"
+  },
+  {
+    "Name": "accelerate-estimate-memory",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\accelerate-estimate-memory.exe"
+  },
+  {
+    "Name": "accelerate-launch",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\accelerate-launch.exe"
+  },
+  {
+    "Name": "accelerate-merge-weights",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\accelerate-merge-weights.exe"
+  },
+  {
+    "Name": "accelerate",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\accelerate.exe"
+  },
+  {
+    "Name": "clear_comtypes_cache",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\clear_comtypes_cache.exe"
+  },
+  {
+    "Name": "cmake",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\cmake.exe"
+  },
+  {
+    "Name": "cpack",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\cpack.exe"
+  },
+  {
+    "Name": "ctest",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\ctest.exe"
+  },
+  {
+    "Name": "datasets-cli",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\datasets-cli.exe"
+  },
+  {
+    "Name": "distro",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\distro.exe"
+  },
+  {
+    "Name": "dotenv",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\dotenv.exe"
+  },
+  {
+    "Name": "f2py",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\f2py.exe"
+  },
+  {
+    "Name": "face_detection",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\face_detection.exe"
+  },
+  {
+    "Name": "face_recognition",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\face_recognition.exe"
+  },
+  {
+    "Name": "flask",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\flask.exe"
+  },
+  {
+    "Name": "fonttools",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\fonttools.exe"
+  },
+  {
+    "Name": "futurize",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\futurize.exe"
+  },
+  {
+    "Name": "httpx",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\httpx.exe"
+  },
+  {
+    "Name": "huggingface-cli",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\huggingface-cli.exe"
+  },
+  {
+    "Name": "isympy",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\isympy.exe"
+  },
+  {
+    "Name": "markdown-it",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\markdown-it.exe"
+  },
+  {
+    "Name": "normalizer",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\normalizer.exe"
+  },
+  {
+    "Name": "openai",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\openai.exe"
+  },
+  {
+    "Name": "pasteurize",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pasteurize.exe"
+  },
+  {
+    "Name": "pip",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pip.exe"
+  },
+  {
+    "Name": "pip3.11",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pip3.11.exe"
+  },
+  {
+    "Name": "pip3",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pip3.exe"
+  },
+  {
+    "Name": "pipwin",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pipwin.exe"
+  },
+  {
+    "Name": "pyftmerge",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pyftmerge.exe"
+  },
+  {
+    "Name": "pyftsubset",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pyftsubset.exe"
+  },
+  {
+    "Name": "pygmentize",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pygmentize.exe"
+  },
+  {
+    "Name": "pylupdate6",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pylupdate6.exe"
+  },
+  {
+    "Name": "pyrsa-decrypt",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pyrsa-decrypt.exe"
+  },
+  {
+    "Name": "pyrsa-encrypt",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pyrsa-encrypt.exe"
+  },
+  {
+    "Name": "pyrsa-keygen",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pyrsa-keygen.exe"
+  },
+  {
+    "Name": "pyrsa-priv2pub",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pyrsa-priv2pub.exe"
+  },
+  {
+    "Name": "pyrsa-sign",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pyrsa-sign.exe"
+  },
+  {
+    "Name": "pyrsa-verify",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pyrsa-verify.exe"
+  },
+  {
+    "Name": "pyuic6",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pyuic6.exe"
+  },
+  {
+    "Name": "pywin32_postinstall",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pywin32_postinstall.exe"
+  },
+  {
+    "Name": "pywin32_testall",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\pywin32_testall.exe"
+  },
+  {
+    "Name": "torchfrtrace",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\torchfrtrace.exe"
+  },
+  {
+    "Name": "torchrun",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\torchrun.exe"
+  },
+  {
+    "Name": "tqdm",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\tqdm.exe"
+  },
+  {
+    "Name": "transformers-cli",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\transformers-cli.exe"
+  },
+  {
+    "Name": "ttx",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\ttx.exe"
+  },
+  {
+    "Name": "wheel",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\wheel.exe"
+  },
+  {
+    "Name": "whisper",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\Scripts\\whisper.exe"
+  },
+  {
+    "Name": "python",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\python.exe"
+  },
+  {
+    "Name": "pythonw",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Python\\Python311\\pythonw.exe"
+  },
+  {
+    "Name": "bash",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\bash.exe"
+  },
+  {
+    "Name": "GameBarElevatedFT_Alias",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\GameBarElevatedFT_Alias.exe"
+  },
+  {
+    "Name": "GetHelp",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\GetHelp.exe"
+  },
+  {
+    "Name": "MediaPlayer",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\MediaPlayer.exe"
+  },
+  {
+    "Name": "MicrosoftWindows.DesktopStickerEditorCentennial",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\MicrosoftWindows.DesktopStickerEditorCentennial.exe"
+  },
+  {
+    "Name": "ms-teams",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\ms-teams.exe"
+  },
+  {
+    "Name": "ms-teamsupdate",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\ms-teamsupdate.exe"
+  },
+  {
+    "Name": "ms-teams_autostarter",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\ms-teams_autostarter.exe"
+  },
+  {
+    "Name": "mspaint",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\mspaint.exe"
+  },
+  {
+    "Name": "notepad",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\notepad.exe"
+  },
+  {
+    "Name": "olk",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\olk.exe"
+  },
+  {
+    "Name": "pbrush",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\pbrush.exe"
+  },
+  {
+    "Name": "python",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+  },
+  {
+    "Name": "python3",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\python3.exe"
+  },
+  {
+    "Name": "SnippingTool",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\SnippingTool.exe"
+  },
+  {
+    "Name": "ttb",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\ttb.exe"
+  },
+  {
+    "Name": "WindowsPackageManagerServer",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\WindowsPackageManagerServer.exe"
+  },
+  {
+    "Name": "winget",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\winget.exe"
+  },
+  {
+    "Name": "wsl",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\wsl.exe"
+  },
+  {
+    "Name": "wslconfig",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\wslconfig.exe"
+  },
+  {
+    "Name": "wt",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
+  },
+  {
+    "Name": "XboxPcAppAdminServer",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\XboxPcAppAdminServer.exe"
+  },
+  {
+    "Name": "XboxPcAppCE",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Microsoft\\WindowsApps\\XboxPcAppCE.exe"
+  },
+  {
+    "Name": "code-tunnel",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code-tunnel.exe"
+  },
+  {
+    "Name": "ollama app",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Ollama\\ollama app.exe"
+  },
+  {
+    "Name": "ollama",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Ollama\\ollama.exe"
+  },
+  {
+    "Name": "unins000",
+    "Path": "C:\\Users\\HCES\\AppData\\Local\\Programs\\Ollama\\unins000.exe"
+  }
+]

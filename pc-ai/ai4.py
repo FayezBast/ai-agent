@@ -2,7 +2,8 @@
 JARVIS-Style AI Assistant - Enhanced & Secure Version
 A comprehensive AI assistant with improved security, error handling, and features.
 """
-
+from dotenv import load_dotenv
+load_dotenv()
 import os
 import sys
 import json
